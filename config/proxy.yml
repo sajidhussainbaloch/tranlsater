@@ -1,0 +1,52 @@
+# Java Edition 1.21.1 (TLauncher) -> existing Bedrock 26.40 server.
+
+proxy:
+  host: 127.0.0.1
+  port: 25565
+  motd: "Java 1.21.1 -> Bedrock 26.40 (translator)"
+  maxPlayers: 100
+
+# Real server (integration target). Either Aternos (change host/port below) or
+# the local dev server via `--dev-server`.
+bedrock:
+  host: saltanatsfsg.aternos.me
+  port: 40156
+  # DeviceOS sent in the Bedrock login JWT: 1 = Android, 7 = Windows 10.
+  # Pretending to be Android stops Aternos/GoMine from kicking existing
+  # mobile players when this PC session joins the same network.
+  deviceOS: 1
+
+# Local Bedrock dev server (no Aternos). Enable via `--dev-server` flag or set
+# enabled: true here. Replaces `bedrock` as the proxy's backend target.
+devServer:
+  enabled: false
+  host: 127.0.0.1
+  port: 19132
+
+protocol:
+  # Version the Java client is told we are; list in src/core/versions.ts registry.
+  java: "1.21.1"
+  # Version we speak to the Bedrock server (bedrock-protocol supported version).
+  bedrock: "26.40"
+
+auth:
+  # offline | device-login
+  #   offline      - join without Xbox auth (empty xuid). Some servers kick the
+  #                  previous player when an offline session joins.
+  #   device-login - real Microsoft/Xbox sign-in. The proxy prints a one-time
+  #                  code to the console on first connect; you sign in at
+  #                  microsoft.com/link. The xuid is then genuine, matching a
+  #                  normal mobile player.
+  mode: device-login
+  deviceLogin:
+    # Optional account label for the token cache. Leave empty to use the
+    # Java player's name.
+    user: ""
+    # Directory where the prismarine-auth token cache is stored.
+    cache: "./cache"
+
+debug:
+  packets: false
+  verbose: false
+  dumpJavaPackets: false
+  dumpBedrockPackets: false

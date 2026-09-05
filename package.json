@@ -1,0 +1,28 @@
+{
+  "name": "j2b-translator",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Java Edition (TLauncher) client -> existing Bedrock 26.40 server protocol translation proxy.",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "typecheck": "tsc -p tsconfig.test.json",
+    "start": "node dist/index.js",
+    "preview": "tsx src/index.ts",
+    "test": "node --import tsx --test test/protocol.test.ts test/framing.test.ts test/handshake.test.ts test/text.test.ts test/blocks.test.ts test/status.integration.test.ts test/devserver.integration.test.ts"
+  },
+  "engines": {
+    "node": ">=18.17"
+  },
+  "dependencies": {
+    "bedrock-protocol": "^3.58.0",
+    "prismarine-registry": "^1.12.0",
+    "yaml": "^2.9.0"
+  },
+  "devDependencies": {
+    "@types/node": "^26.2.0",
+    "minecraft-protocol": "^1.66.2",
+    "tsx": "^4.23.11",
+    "typescript": "^7.0.2"
+  }
+}

@@ -1,0 +1,1126 @@
+[INFO ] Java listener: 127.0.0.1:25565
+[INFO ] versions: Java 1.21.1 <-> Bedrock 26.40
+[INFO ] Bedrock target: saltanatsfsg.aternos.me:40156
+[INFO ] open TLauncher and point it at 127.0.0.1:25565
+[INFO ] player configured, entering PLAY (user reached M2 milestone)
+[INFO ] opening Bedrock session for musaboffical -> saltanatsfsg.aternos.me:40156
+Connecting to saltanatsfsg.aternos.me:40156 §7Welcome to the server ofsfs\! (world), version 1.26.40 
+[INFO ] [bedrock] authenticated as 'TrickedPepper29' (Xbox device login)
+[INFO ] [bedrock] joined (play_status login_success)
+[INFO ] [bedrock] start_game received (entity 358, block palette: 0)
+[INFO ] [blocks] palette mapped: 0 states, 0 unmapped (complete)
+[INFO ] [blocks] palette mapped: 0 states, 0 unmapped (complete)
+[INFO ] [chunk] level_chunk x=106 z=-248 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_106_-248.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=106 z=-249 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_106_-249.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=107 z=-250 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_107_-250.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=107 z=-249 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_107_-249.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=107 z=-251 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_107_-251.bin (first bytes: 03000000000000000000000000000000000000000000007f)
+[INFO ] [chunk] level_chunk x=103 z=-255 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_103_-255.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=108 z=-249 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_108_-249.bin (first bytes: 0300000000007180ffe0ffffffffffffffffffffffffffff)
+[INFO ] [chunk] level_chunk x=104 z=-255 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_104_-255.bin (first bytes: 0300000100070007000f7ccf7fffffffffffffffffffffff)
+[INFO ] [chunk] level_chunk x=107 z=-248 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_107_-248.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=108 z=-248 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_108_-248.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=99 z=-244 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_99_-244.bin (first bytes: 0146014601460146014601460146014601460146ffffffff)
+[INFO ] [chunk] level_chunk x=106 z=-244 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_106_-244.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=99 z=-243 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_99_-243.bin (first bytes: 0146014601460146014601460146014601460146ffffffff)
+[INFO ] [chunk] level_chunk x=106 z=-243 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_106_-243.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=99 z=-242 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_99_-242.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=98 z=-242 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_98_-242.bin (first bytes: 0146014601460146014601460146014601460146ffffffff)
+[INFO ] [chunk] level_chunk x=101 z=-246 subchunks=0 cache=false payloadBytes=5175
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_101_-246.bin (first bytes: 030000000000000000000000000000000000000f00ff03ff)
+[INFO ] [chunk] level_chunk x=107 z=-252 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_107_-252.bin (first bytes: 012e012e012e012e012e012e012e012e012effffffffffff)
+[INFO ] [chunk] level_chunk x=105 z=-255 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_105_-255.bin (first bytes: 012e012e012e012e012e012e012e012e012effffffffffff)
+[INFO ] [chunk] level_chunk x=107 z=-247 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_107_-247.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=108 z=-250 subchunks=0 cache=false payloadBytes=9277
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_108_-250.bin (first bytes: 050000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=108 z=-251 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_108_-251.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=103 z=-256 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_103_-256.bin (first bytes: 0300000000000000000308031c07ff87ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=104 z=-256 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_104_-256.bin (first bytes: 012e012e012e012e012e012e012e012e012effffffffffff)
+[INFO ] [chunk] level_chunk x=107 z=-246 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_107_-246.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=107 z=-245 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_107_-245.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=105 z=-246 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_105_-246.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=101 z=-245 subchunks=0 cache=false payloadBytes=5175
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_101_-245.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=100 z=-243 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_100_-243.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=107 z=-244 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_107_-244.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=105 z=-242 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_105_-242.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=107 z=-243 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_107_-243.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=107 z=-242 subchunks=0 cache=false payloadBytes=36
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_107_-242.bin (first bytes: 01020102010201020102010201020102010201020102ffff)
+[INFO ] [chunk] level_chunk x=97 z=-242 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_97_-242.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=102 z=-246 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_102_-246.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=105 z=-247 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_105_-247.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=106 z=-247 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_106_-247.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=103 z=-245 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_103_-245.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=105 z=-245 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_105_-245.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=100 z=-244 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_100_-244.bin (first bytes: 0146014601460146014601460146014601460146ffffffff)
+[INFO ] [chunk] level_chunk x=106 z=-245 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_106_-245.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=105 z=-244 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_105_-244.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=98 z=-244 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_98_-244.bin (first bytes: 0146014601460146014601460146014601460146ffffffff)
+[INFO ] [chunk] level_chunk x=105 z=-243 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_105_-243.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=98 z=-243 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_98_-243.bin (first bytes: 0146014601460146014601460146014601460146ffffffff)
+[INFO ] [chunk] level_chunk x=106 z=-242 subchunks=0 cache=false payloadBytes=36
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_106_-242.bin (first bytes: 01020102010201020102010201020102010201020102ffff)
+[INFO ] [chunk] level_chunk x=104 z=-246 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_104_-246.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=102 z=-245 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_102_-245.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=99 z=-246 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_99_-246.bin (first bytes: 0146014601460146014601460146014601460146ffffffff)
+[INFO ] [chunk] level_chunk x=106 z=-246 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_106_-246.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=99 z=-245 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_99_-245.bin (first bytes: 0146014601460146014601460146014601460146ffffffff)
+[INFO ] [chunk] level_chunk x=107 z=-253 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_107_-253.bin (first bytes: 012e012e012e012e012e012e012e012e012effffffffffff)
+[INFO ] [chunk] level_chunk x=108 z=-252 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_108_-252.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=107 z=-254 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_107_-254.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=106 z=-255 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_106_-255.bin (first bytes: 012e012e012e012e012e012e012e012e012effffffffffff)
+[INFO ] [chunk] level_chunk x=105 z=-256 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_105_-256.bin (first bytes: 012e012e012e012e012e012e012e012e012effffffffffff)
+[INFO ] [chunk] level_chunk x=108 z=-253 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_108_-253.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=109 z=-250 subchunks=0 cache=false payloadBytes=10305
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_109_-250.bin (first bytes: 050000000000000000000000000000005400555555505555)
+[INFO ] [chunk] level_chunk x=109 z=-251 subchunks=0 cache=false payloadBytes=5175
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_109_-251.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=107 z=-255 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_107_-255.bin (first bytes: 030000000000000030003000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=109 z=-249 subchunks=0 cache=false payloadBytes=9277
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_109_-249.bin (first bytes: 050000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=97 z=-244 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_97_-244.bin (first bytes: 0146014601460146014601460146014601460146ffffffff)
+[INFO ] [chunk] level_chunk x=101 z=-242 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_101_-242.bin (first bytes: 0146014601460146014601460146014601460146ffffffff)
+[INFO ] [chunk] level_chunk x=100 z=-242 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_100_-242.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=97 z=-243 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_97_-243.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=104 z=-245 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_104_-245.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=100 z=-245 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_100_-245.bin (first bytes: 0146014601460146014601460146014601460146ffffffff)
+[INFO ] [chunk] level_chunk x=101 z=-244 subchunks=0 cache=false payloadBytes=5175
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_101_-244.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=101 z=-243 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_101_-243.bin (first bytes: 0146014601460146014601460146014601460146ffffffff)
+[INFO ] [chunk] level_chunk x=103 z=-257 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_103_-257.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=106 z=-256 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_106_-256.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=109 z=-252 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_109_-252.bin (first bytes: 030000000000000000002000200000000000000000000000)
+[INFO ] [chunk] level_chunk x=104 z=-257 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_104_-257.bin (first bytes: 012e012e012e012e012e012e012e012e012effffffffffff)
+[INFO ] [chunk] level_chunk x=109 z=-253 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_109_-253.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=110 z=-249 subchunks=0 cache=false payloadBytes=5175
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_110_-249.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=103 z=-246 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_103_-246.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=100 z=-246 subchunks=0 cache=false payloadBytes=5175
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_100_-246.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=105 z=-257 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_105_-257.bin (first bytes: 012e012e012e012e012e012e012e012effffffffffffffff)
+[INFO ] [chunk] level_chunk x=110 z=-250 subchunks=0 cache=false payloadBytes=5175
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_110_-250.bin (first bytes: 0310001c003f003f003f807fc07fc0ffffffffffffffffff)
+[INFO ] [chunk] level_chunk x=110 z=-251 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_110_-251.bin (first bytes: 012a012a012a012a012a012a012a012a012a012affffffff)
+[INFO ] [chunk] level_chunk x=106 z=-257 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_106_-257.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=104 z=-242 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_104_-242.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=103 z=-258 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_103_-258.bin (first bytes: 030000000000000000000007000000000000000010001000)
+[INFO ] [chunk] level_chunk x=104 z=-258 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_104_-258.bin (first bytes: 012e012e012e012e012e012e012e012e012effffffffffff)
+[INFO ] [chunk] level_chunk x=105 z=-258 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_105_-258.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=104 z=-243 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_104_-243.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=107 z=-256 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_107_-256.bin (first bytes: 030000003000f0f0ffffffffffffffffffffffffffffffff)
+[INFO ] [chunk] level_chunk x=103 z=-242 subchunks=0 cache=false payloadBytes=5175
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_103_-242.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=102 z=-244 subchunks=0 cache=false payloadBytes=5175
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_102_-244.bin (first bytes: 030000000000000000000000000000000000000000070007)
+[INFO ] [chunk] level_chunk x=104 z=-244 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_104_-244.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=102 z=-242 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_102_-242.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=110 z=-248 subchunks=0 cache=false payloadBytes=9277
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_110_-248.bin (first bytes: 050000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=107 z=-257 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_107_-257.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=103 z=-243 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_103_-243.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=109 z=-248 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_109_-248.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=106 z=-258 subchunks=0 cache=false payloadBytes=8249
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_106_-258.bin (first bytes: 050000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=95 z=-244 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_95_-244.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=101 z=-254 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_101_-254.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=103 z=-244 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_103_-244.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=108 z=-247 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_108_-247.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=102 z=-243 subchunks=0 cache=false payloadBytes=5175
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_102_-243.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=108 z=-246 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_108_-246.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=109 z=-247 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_109_-247.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=108 z=-245 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_108_-245.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=109 z=-246 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_109_-246.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=96 z=-244 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_96_-244.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=109 z=-245 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_109_-245.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=109 z=-244 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_109_-244.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=108 z=-244 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_108_-244.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=97 z=-248 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_97_-248.bin (first bytes: 0146014601460146014601460146014601460146ffffffff)
+[INFO ] [chunk] level_chunk x=97 z=-246 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_97_-246.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=97 z=-245 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_97_-245.bin (first bytes: 0146014601460146014601460146014601460146ffffffff)
+[INFO ] [chunk] level_chunk x=102 z=-258 subchunks=0 cache=false payloadBytes=9277
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_102_-258.bin (first bytes: 050000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=110 z=-247 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_110_-247.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=107 z=-258 subchunks=0 cache=false payloadBytes=5173
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_107_-258.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=102 z=-255 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_102_-255.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=97 z=-247 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_97_-247.bin (first bytes: 0146014601460146014601460146014601460146ffffffff)
+[INFO ] [chunk] level_chunk x=102 z=-257 subchunks=0 cache=false payloadBytes=9277
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_102_-257.bin (first bytes: 050000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=110 z=-246 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_110_-246.bin (first bytes: 030000000010003000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=98 z=-248 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_98_-248.bin (first bytes: 0146014601460146014601460146014601460146ffffffff)
+[INFO ] [chunk] level_chunk x=98 z=-247 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_98_-247.bin (first bytes: 0146014601460146014601460146014601460146ffffffff)
+[INFO ] [chunk] level_chunk x=97 z=-252 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_97_-252.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=101 z=-257 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_101_-257.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=101 z=-258 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_101_-258.bin (first bytes: 0300001e001f003f003f007fe07ff0fff3ffffffffffffff)
+[INFO ] [chunk] level_chunk x=101 z=-256 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_101_-256.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=97 z=-250 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_97_-250.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=101 z=-255 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_101_-255.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=97 z=-251 subchunks=0 cache=false payloadBytes=9277
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_97_-251.bin (first bytes: 050000000000000000000050000000550100555505545555)
+[INFO ] [chunk] level_chunk x=102 z=-256 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_102_-256.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=108 z=-254 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_108_-254.bin (first bytes: 030000000000000000000000000000000006000f000f081f)
+[INFO ] [chunk] level_chunk x=96 z=-245 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_96_-245.bin (first bytes: 0146014601460146014601460146014601460146ffffffff)
+[INFO ] [chunk] level_chunk x=98 z=-250 subchunks=0 cache=false payloadBytes=5175
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_98_-250.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=98 z=-249 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_98_-249.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=98 z=-251 subchunks=0 cache=false payloadBytes=9277
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_98_-251.bin (first bytes: 050000000000000000150040015501540555555555555555)
+[INFO ] [chunk] level_chunk x=99 z=-253 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_99_-253.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=98 z=-252 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_98_-252.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=100 z=-254 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_100_-254.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=98 z=-253 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_98_-253.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=97 z=-249 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_97_-249.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=100 z=-255 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_100_-255.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=98 z=-254 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_98_-254.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=106 z=-254 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_106_-254.bin (first bytes: 012e012e012e012e012e012e012e012e012effffffffffff)
+[INFO ] [chunk] level_chunk x=98 z=-246 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_98_-246.bin (first bytes: 0146014601460146014601460146014601460146ffffffff)
+[INFO ] [chunk] level_chunk x=97 z=-253 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_97_-253.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=96 z=-248 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_96_-248.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=97 z=-254 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_97_-254.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=98 z=-245 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_98_-245.bin (first bytes: 0146014601460146014601460146014601460146ffffffff)
+[INFO ] [chunk] level_chunk x=96 z=-247 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_96_-247.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=96 z=-246 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_96_-246.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=95 z=-246 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_95_-246.bin (first bytes: 0146014601460146014601460146014601460146ffffffff)
+[INFO ] [chunk] level_chunk x=110 z=-252 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_110_-252.bin (first bytes: 012a012a012a012a012a012a012a012a012affffffffffff)
+[INFO ] [chunk] level_chunk x=105 z=-248 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_105_-248.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=106 z=-250 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_106_-250.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=102 z=-254 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_102_-254.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=99 z=-254 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_99_-254.bin (first bytes: 03000000000000000000000000000000000000004000c000)
+[INFO ] [chunk] level_chunk x=99 z=-255 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_99_-255.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=96 z=-250 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_96_-250.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=96 z=-249 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_96_-249.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=100 z=-256 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_100_-256.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=99 z=-256 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_99_-256.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=95 z=-249 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_95_-249.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=95 z=-248 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_95_-248.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=99 z=-257 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_99_-257.bin (first bytes: 0300000000e0fff0fff8ffffffffffffffffffffffffffff)
+[INFO ] [chunk] level_chunk x=95 z=-247 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_95_-247.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=95 z=-245 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_95_-245.bin (first bytes: 0146014601460146014601460146014601460146ffffffff)
+[INFO ] [chunk] level_chunk x=105 z=-249 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_105_-249.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=105 z=-254 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_105_-254.bin (first bytes: 012e012e012e012e012e012e012e012e012effffffffffff)
+[INFO ] [chunk] level_chunk x=95 z=-250 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_95_-250.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=100 z=-258 subchunks=0 cache=false payloadBytes=9277
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_100_-258.bin (first bytes: 050000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=99 z=-258 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_99_-258.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=104 z=-254 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_104_-254.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=100 z=-257 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_100_-257.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=105 z=-250 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_105_-250.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=103 z=-254 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_103_-254.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=105 z=-252 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_105_-252.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=105 z=-253 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_105_-253.bin (first bytes: 0300000000000000000000000000000000000000000000f0)
+[INFO ] [chunk] level_chunk x=106 z=-252 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_106_-252.bin (first bytes: 030000004000e080ffc0ffc0ffe1ffe3ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=106 z=-253 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_106_-253.bin (first bytes: 012e012e012e012e012e012e012e012e012effffffffffff)
+[INFO ] [chunk] level_chunk x=104 z=-250 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_104_-250.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=100 z=-251 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_100_-251.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=104 z=-249 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_104_-249.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=104 z=-251 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_104_-251.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=100 z=-252 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_100_-252.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=104 z=-252 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_104_-252.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=99 z=-249 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_99_-249.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=105 z=-251 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_105_-251.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=99 z=-251 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_99_-251.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=99 z=-252 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_99_-252.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=104 z=-247 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_104_-247.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=104 z=-253 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_104_-253.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=106 z=-251 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_106_-251.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=99 z=-247 subchunks=0 cache=false payloadBytes=5175
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_99_-247.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=94 z=-246 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_94_-246.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=102 z=-250 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_102_-250.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=101 z=-250 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_101_-250.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=103 z=-250 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_103_-250.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=102 z=-249 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_102_-249.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=103 z=-249 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_103_-249.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=101 z=-249 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_101_-249.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=102 z=-248 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_102_-248.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=103 z=-248 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_103_-248.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=101 z=-248 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_101_-248.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=104 z=-248 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_104_-248.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=102 z=-247 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_102_-247.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=103 z=-247 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_103_-247.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=101 z=-247 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_101_-247.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=100 z=-247 subchunks=0 cache=false payloadBytes=5175
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_100_-247.bin (first bytes: 0300006000e000f001f303ff07ff0fff1fffffffffffffff)
+[INFO ] [chunk] level_chunk x=102 z=-251 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_102_-251.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=103 z=-251 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_103_-251.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=101 z=-251 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_101_-251.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=100 z=-250 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_100_-250.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=102 z=-252 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_102_-252.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=100 z=-249 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_100_-249.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=103 z=-252 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_103_-252.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=101 z=-252 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_101_-252.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=100 z=-248 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_100_-248.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=99 z=-250 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_99_-250.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=102 z=-253 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_102_-253.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=101 z=-253 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_101_-253.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=103 z=-253 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_103_-253.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=100 z=-253 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_100_-253.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=99 z=-248 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_99_-248.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=96 z=-251 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_96_-251.bin (first bytes: 03000000000000e03fffffffffffffffffffffffffffffff)
+[INFO ] [chunk] level_chunk x=96 z=-252 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_96_-252.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=98 z=-255 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_98_-255.bin (first bytes: 030010001000300020000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=96 z=-253 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_96_-253.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=95 z=-251 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_95_-251.bin (first bytes: 03000000007000f800ff81ffc7ffffffffffffffffffffff)
+[INFO ] [chunk] level_chunk x=97 z=-255 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_97_-255.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=96 z=-254 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_96_-254.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=98 z=-256 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_98_-256.bin (first bytes: 030000000000000000e00000020000000000000000000000)
+[INFO ] [chunk] level_chunk x=95 z=-252 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_95_-252.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=95 z=-253 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_95_-253.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=96 z=-255 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_96_-255.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=108 z=-255 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_108_-255.bin (first bytes: 010e010e010e010e010e010e010e010effffffffffffffff)
+[INFO ] [chunk] level_chunk x=97 z=-256 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_97_-256.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=94 z=-250 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_94_-250.bin (first bytes: 03003c007e00fe80ffe0ffe0ffe7ffffffffffffffffffff)
+[INFO ] [chunk] level_chunk x=94 z=-249 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_94_-249.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=95 z=-254 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_95_-254.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=109 z=-254 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_109_-254.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=98 z=-257 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_98_-257.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=94 z=-251 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_94_-251.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=94 z=-248 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_94_-248.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=94 z=-252 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_94_-252.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=96 z=-256 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_96_-256.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=108 z=-256 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_108_-256.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=94 z=-253 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_94_-253.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=110 z=-253 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_110_-253.bin (first bytes: 012a012a012a012a012a012a012a012a012affffffffffff)
+[INFO ] [chunk] level_chunk x=94 z=-247 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_94_-247.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=109 z=-255 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_109_-255.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=97 z=-257 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_97_-257.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=95 z=-255 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_95_-255.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=98 z=-258 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_98_-258.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=94 z=-254 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_94_-254.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=110 z=-254 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_110_-254.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=96 z=-257 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_96_-257.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=109 z=-256 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_109_-256.bin (first bytes: 0300000000000000000000000000000000000010007c00ff)
+[INFO ] [chunk] level_chunk x=95 z=-256 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_95_-256.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=108 z=-257 subchunks=0 cache=false payloadBytes=5173
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_108_-257.bin (first bytes: 030000000000000000000000000000000000000000f01fff)
+[INFO ] [chunk] level_chunk x=97 z=-258 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_97_-258.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=109 z=-257 subchunks=0 cache=false payloadBytes=1063
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_109_-257.bin (first bytes: 012a012a012a0300c000e000e000fc00fe00fc00f800f800)
+[INFO ] [chunk] level_chunk x=95 z=-257 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_95_-257.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=108 z=-258 subchunks=0 cache=false payloadBytes=1063
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_108_-258.bin (first bytes: 012a012a012a0300e000e000f000e000c000800080008000)
+[INFO ] [chunk] level_chunk x=96 z=-258 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_96_-258.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [bedrock] spawned (player_spawn)
+[INFO ] closing Bedrock session for musaboffical
+[INFO ] [bedrock] session closed
+[INFO ] player configured, entering PLAY (user reached M2 milestone)
+[INFO ] opening Bedrock session for musaboffical -> saltanatsfsg.aternos.me:40156
+Connecting to saltanatsfsg.aternos.me:40156 §7Welcome to the server ofsfs\! (world), version 1.26.40 
+[INFO ] [bedrock] authenticated as 'TrickedPepper29' (Xbox device login)
+[INFO ] [bedrock] joined (play_status login_success)
+[INFO ] [bedrock] start_game received (entity 407, block palette: 0)
+[INFO ] [blocks] palette mapped: 0 states, 0 unmapped (complete)
+[INFO ] [blocks] palette mapped: 0 states, 0 unmapped (complete)
+[INFO ] [chunk] level_chunk x=106 z=-248 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_106_-248.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=105 z=-251 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_105_-251.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=105 z=-250 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_105_-250.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=105 z=-252 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_105_-252.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=105 z=-249 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_105_-249.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=105 z=-248 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_105_-248.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=106 z=-249 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_106_-249.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=106 z=-250 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_106_-250.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=103 z=-254 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_103_-254.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=106 z=-251 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_106_-251.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [translate] Java -> Bedrock chat: ho
+[INFO ] [chunk] level_chunk x=103 z=-255 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_103_-255.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=105 z=-253 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_105_-253.bin (first bytes: 0300000000000000000000000000000000000000000000f0)
+[INFO ] [chunk] level_chunk x=104 z=-254 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_104_-254.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=106 z=-252 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_106_-252.bin (first bytes: 030000004000e080ffc0ffc0ffe1ffe3ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=106 z=-253 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_106_-253.bin (first bytes: 012e012e012e012e012e012e012e012e012effffffffffff)
+[INFO ] [chunk] level_chunk x=105 z=-254 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_105_-254.bin (first bytes: 012e012e012e012e012e012e012e012e012effffffffffff)
+[INFO ] [bedrock] session closed
+[INFO ] [bedrock] session ended: Disconnected
+[INFO ] disconnecting Java client: Disconnected from Bedrock server
+[INFO ] closing Bedrock session for musaboffical
+[INFO ] player configured, entering PLAY (user reached M2 milestone)
+[INFO ] opening Bedrock session for musaboffical -> saltanatsfsg.aternos.me:40156
+Connecting to saltanatsfsg.aternos.me:40156 §7Welcome to the server ofsfs\! (world), version 1.26.40 
+[INFO ] [bedrock] authenticated as 'TrickedPepper29' (Xbox device login)
+[INFO ] [bedrock] joined (play_status login_success)
+[INFO ] [bedrock] start_game received (entity 411, block palette: 0)
+[INFO ] [blocks] palette mapped: 0 states, 0 unmapped (complete)
+[INFO ] [blocks] palette mapped: 0 states, 0 unmapped (complete)
+[INFO ] [chunk] level_chunk x=105 z=-250 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_105_-250.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=105 z=-249 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_105_-249.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=105 z=-248 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_105_-248.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=106 z=-249 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_106_-249.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=106 z=-248 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_106_-248.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=106 z=-250 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_106_-250.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=105 z=-251 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_105_-251.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=105 z=-252 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_105_-252.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=106 z=-251 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_106_-251.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=106 z=-252 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_106_-252.bin (first bytes: 030000004000e080ffc0ffc0ffe1ffe3ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=103 z=-254 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_103_-254.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=104 z=-254 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_104_-254.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=105 z=-253 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_105_-253.bin (first bytes: 0300000000000000000000000000000000000000000000f0)
+[INFO ] [chunk] level_chunk x=106 z=-253 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_106_-253.bin (first bytes: 012e012e012e012e012e012e012e012e012effffffffffff)
+[INFO ] [chunk] level_chunk x=103 z=-255 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_103_-255.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=105 z=-254 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_105_-254.bin (first bytes: 012e012e012e012e012e012e012e012e012effffffffffff)
+[INFO ] [chunk] level_chunk x=107 z=-250 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_107_-250.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=107 z=-251 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_107_-251.bin (first bytes: 03000000000000000000000000000000000000000000007f)
+[INFO ] [chunk] level_chunk x=107 z=-249 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_107_-249.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=106 z=-247 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_106_-247.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=104 z=-255 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_104_-255.bin (first bytes: 0300000100070007000f7ccf7fffffffffffffffffffffff)
+[INFO ] [chunk] level_chunk x=106 z=-254 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_106_-254.bin (first bytes: 012e012e012e012e012e012e012e012e012effffffffffff)
+[INFO ] [chunk] level_chunk x=108 z=-250 subchunks=0 cache=false payloadBytes=9277
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_108_-250.bin (first bytes: 050000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=108 z=-249 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_108_-249.bin (first bytes: 0300000000007180ffe0ffffffffffffffffffffffffffff)
+[INFO ] [chunk] level_chunk x=101 z=-246 subchunks=0 cache=false payloadBytes=5175
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_101_-246.bin (first bytes: 030000000000000000000000000000000000000f00ff03ff)
+[INFO ] [chunk] level_chunk x=105 z=-246 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_105_-246.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=107 z=-252 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_107_-252.bin (first bytes: 012e012e012e012e012e012e012e012e012effffffffffff)
+[INFO ] [chunk] level_chunk x=107 z=-248 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_107_-248.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=106 z=-246 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_106_-246.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=107 z=-253 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_107_-253.bin (first bytes: 012e012e012e012e012e012e012e012e012effffffffffff)
+[INFO ] [chunk] level_chunk x=105 z=-255 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_105_-255.bin (first bytes: 012e012e012e012e012e012e012e012e012effffffffffff)
+[INFO ] [chunk] level_chunk x=104 z=-256 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_104_-256.bin (first bytes: 012e012e012e012e012e012e012e012e012effffffffffff)
+[INFO ] [chunk] level_chunk x=108 z=-248 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_108_-248.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=102 z=-246 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_102_-246.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=103 z=-246 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_103_-246.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=105 z=-247 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_105_-247.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=104 z=-246 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_104_-246.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=107 z=-247 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_107_-247.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=103 z=-256 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_103_-256.bin (first bytes: 0300000000000000000308031c07ff87ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=108 z=-252 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_108_-252.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=107 z=-246 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_107_-246.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=105 z=-256 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_105_-256.bin (first bytes: 012e012e012e012e012e012e012e012e012effffffffffff)
+[INFO ] [chunk] level_chunk x=109 z=-250 subchunks=0 cache=false payloadBytes=10305
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_109_-250.bin (first bytes: 050000000000000000000000000000005400555555505555)
+[INFO ] [chunk] level_chunk x=109 z=-249 subchunks=0 cache=false payloadBytes=9277
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_109_-249.bin (first bytes: 050000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=97 z=-242 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_97_-242.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=108 z=-251 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_108_-251.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=108 z=-253 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_108_-253.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=109 z=-251 subchunks=0 cache=false payloadBytes=5175
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_109_-251.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=109 z=-252 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_109_-252.bin (first bytes: 030000000000000000002000200000000000000000000000)
+[INFO ] [chunk] level_chunk x=97 z=-244 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_97_-244.bin (first bytes: 0146014601460146014601460146014601460146ffffffff)
+[INFO ] [chunk] level_chunk x=97 z=-243 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_97_-243.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=107 z=-242 subchunks=0 cache=false payloadBytes=36
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_107_-242.bin (first bytes: 01020102010201020102010201020102010201020102ffff)
+[INFO ] [chunk] level_chunk x=103 z=-247 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_103_-247.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=104 z=-248 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_104_-248.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=102 z=-247 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_102_-247.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=101 z=-247 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_101_-247.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=104 z=-247 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_104_-247.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=101 z=-245 subchunks=0 cache=false payloadBytes=5175
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_101_-245.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=100 z=-245 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_100_-245.bin (first bytes: 0146014601460146014601460146014601460146ffffffff)
+[INFO ] [chunk] level_chunk x=105 z=-245 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_105_-245.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=106 z=-245 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_106_-245.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=99 z=-244 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_99_-244.bin (first bytes: 0146014601460146014601460146014601460146ffffffff)
+[INFO ] [chunk] level_chunk x=98 z=-244 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_98_-244.bin (first bytes: 0146014601460146014601460146014601460146ffffffff)
+[INFO ] [chunk] level_chunk x=103 z=-248 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_103_-248.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=100 z=-246 subchunks=0 cache=false payloadBytes=5175
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_100_-246.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=103 z=-245 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_103_-245.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=104 z=-245 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_104_-245.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=99 z=-245 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_99_-245.bin (first bytes: 0146014601460146014601460146014601460146ffffffff)
+[INFO ] [chunk] level_chunk x=105 z=-244 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_105_-244.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=106 z=-244 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_106_-244.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=99 z=-242 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_99_-242.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=106 z=-242 subchunks=0 cache=false payloadBytes=36
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_106_-242.bin (first bytes: 01020102010201020102010201020102010201020102ffff)
+[INFO ] [chunk] level_chunk x=98 z=-242 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_98_-242.bin (first bytes: 0146014601460146014601460146014601460146ffffffff)
+[INFO ] [chunk] level_chunk x=102 z=-248 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_102_-248.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=103 z=-244 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_103_-244.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=100 z=-244 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_100_-244.bin (first bytes: 0146014601460146014601460146014601460146ffffffff)
+[INFO ] [chunk] level_chunk x=104 z=-244 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_104_-244.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=102 z=-242 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_102_-242.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=100 z=-242 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_100_-242.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=101 z=-248 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_101_-248.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=102 z=-243 subchunks=0 cache=false payloadBytes=5175
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_102_-243.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=100 z=-248 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_100_-248.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=99 z=-246 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_99_-246.bin (first bytes: 0146014601460146014601460146014601460146ffffffff)
+[INFO ] [chunk] level_chunk x=102 z=-245 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_102_-245.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=102 z=-244 subchunks=0 cache=false payloadBytes=5175
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_102_-244.bin (first bytes: 030000000000000000000000000000000000000000070007)
+[INFO ] [chunk] level_chunk x=101 z=-244 subchunks=0 cache=false payloadBytes=5175
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_101_-244.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=106 z=-255 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_106_-255.bin (first bytes: 012e012e012e012e012e012e012e012e012effffffffffff)
+[INFO ] [chunk] level_chunk x=107 z=-254 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_107_-254.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=101 z=-243 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_101_-243.bin (first bytes: 0146014601460146014601460146014601460146ffffffff)
+[INFO ] [chunk] level_chunk x=107 z=-245 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_107_-245.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=100 z=-243 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_100_-243.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=107 z=-244 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_107_-244.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=101 z=-242 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_101_-242.bin (first bytes: 0146014601460146014601460146014601460146ffffffff)
+[INFO ] [chunk] level_chunk x=106 z=-243 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_106_-243.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=107 z=-243 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_107_-243.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=99 z=-250 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_99_-250.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=100 z=-247 subchunks=0 cache=false payloadBytes=5175
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_100_-247.bin (first bytes: 0300006000e000f001f303ff07ff0fff1fffffffffffffff)
+[INFO ] [chunk] level_chunk x=107 z=-255 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_107_-255.bin (first bytes: 030000000000000030003000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=103 z=-257 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_103_-257.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=106 z=-256 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_106_-256.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=109 z=-248 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_109_-248.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=104 z=-257 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_104_-257.bin (first bytes: 012e012e012e012e012e012e012e012e012effffffffffff)
+[INFO ] [chunk] level_chunk x=109 z=-253 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_109_-253.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=105 z=-257 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_105_-257.bin (first bytes: 012e012e012e012e012e012e012e012effffffffffffffff)
+[INFO ] [chunk] level_chunk x=107 z=-256 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_107_-256.bin (first bytes: 030000003000f0f0ffffffffffffffffffffffffffffffff)
+[INFO ] [chunk] level_chunk x=110 z=-250 subchunks=0 cache=false payloadBytes=5175
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_110_-250.bin (first bytes: 0310001c003f003f003f807fc07fc0ffffffffffffffffff)
+[INFO ] [chunk] level_chunk x=110 z=-249 subchunks=0 cache=false payloadBytes=5175
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_110_-249.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=110 z=-248 subchunks=0 cache=false payloadBytes=9277
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_110_-248.bin (first bytes: 050000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=99 z=-249 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_99_-249.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=99 z=-248 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_99_-248.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=106 z=-257 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_106_-257.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=103 z=-258 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_103_-258.bin (first bytes: 030000000000000000000007000000000000000010001000)
+[INFO ] [chunk] level_chunk x=110 z=-251 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_110_-251.bin (first bytes: 012a012a012a012a012a012a012a012a012a012affffffff)
+[INFO ] [chunk] level_chunk x=104 z=-258 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_104_-258.bin (first bytes: 012e012e012e012e012e012e012e012e012effffffffffff)
+[INFO ] [chunk] level_chunk x=105 z=-258 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_105_-258.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=107 z=-257 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_107_-257.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=106 z=-258 subchunks=0 cache=false payloadBytes=8249
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_106_-258.bin (first bytes: 050000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=102 z=-254 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_102_-254.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=99 z=-247 subchunks=0 cache=false payloadBytes=5175
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_99_-247.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=108 z=-247 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_108_-247.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=96 z=-244 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_96_-244.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=95 z=-244 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_95_-244.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=101 z=-254 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_101_-254.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=102 z=-255 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_102_-255.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=108 z=-246 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_108_-246.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=109 z=-247 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_109_-247.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=108 z=-245 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_108_-245.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=109 z=-246 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_109_-246.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=108 z=-244 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_108_-244.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=99 z=-251 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_99_-251.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=102 z=-256 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_102_-256.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=102 z=-257 subchunks=0 cache=false payloadBytes=9277
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_102_-257.bin (first bytes: 050000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=109 z=-245 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_109_-245.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=109 z=-244 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_109_-244.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=107 z=-258 subchunks=0 cache=false payloadBytes=5173
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_107_-258.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=98 z=-250 subchunks=0 cache=false payloadBytes=5175
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_98_-250.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=98 z=-251 subchunks=0 cache=false payloadBytes=9277
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_98_-251.bin (first bytes: 050000000000000000150040015501540555555555555555)
+[INFO ] [chunk] level_chunk x=100 z=-254 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_100_-254.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=97 z=-250 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_97_-250.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=101 z=-255 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_101_-255.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=101 z=-256 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_101_-256.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=101 z=-257 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_101_-257.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=110 z=-247 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_110_-247.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=110 z=-246 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_110_-246.bin (first bytes: 030000000010003000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=102 z=-258 subchunks=0 cache=false payloadBytes=9277
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_102_-258.bin (first bytes: 050000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=101 z=-258 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_101_-258.bin (first bytes: 0300001e001f003f003f007fe07ff0fff3ffffffffffffff)
+[INFO ] [chunk] level_chunk x=99 z=-252 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_99_-252.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=99 z=-254 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_99_-254.bin (first bytes: 03000000000000000000000000000000000000004000c000)
+[INFO ] [chunk] level_chunk x=97 z=-251 subchunks=0 cache=false payloadBytes=9277
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_97_-251.bin (first bytes: 050000000000000000000050000000550100555505545555)
+[INFO ] [chunk] level_chunk x=97 z=-252 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_97_-252.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=96 z=-250 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_96_-250.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=108 z=-254 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_108_-254.bin (first bytes: 030000000000000000000000000000000006000f000f081f)
+[INFO ] [chunk] level_chunk x=98 z=-249 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_98_-249.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=99 z=-253 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_99_-253.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=98 z=-245 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_98_-245.bin (first bytes: 0146014601460146014601460146014601460146ffffffff)
+[INFO ] [chunk] level_chunk x=95 z=-250 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_95_-250.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=95 z=-249 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_95_-249.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=100 z=-258 subchunks=0 cache=false payloadBytes=9277
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_100_-258.bin (first bytes: 050000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=95 z=-245 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_95_-245.bin (first bytes: 0146014601460146014601460146014601460146ffffffff)
+[INFO ] [chunk] level_chunk x=98 z=-252 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_98_-252.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=100 z=-255 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_100_-255.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=98 z=-246 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_98_-246.bin (first bytes: 0146014601460146014601460146014601460146ffffffff)
+[INFO ] [chunk] level_chunk x=99 z=-255 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_99_-255.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=96 z=-249 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_96_-249.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=100 z=-256 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_100_-256.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=97 z=-246 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_97_-246.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=99 z=-256 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_99_-256.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=100 z=-257 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_100_-257.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=95 z=-247 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_95_-247.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=96 z=-245 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_96_-245.bin (first bytes: 0146014601460146014601460146014601460146ffffffff)
+[INFO ] [chunk] level_chunk x=95 z=-246 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_95_-246.bin (first bytes: 0146014601460146014601460146014601460146ffffffff)
+[INFO ] [chunk] level_chunk x=98 z=-248 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_98_-248.bin (first bytes: 0146014601460146014601460146014601460146ffffffff)
+[INFO ] [chunk] level_chunk x=97 z=-249 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_97_-249.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=97 z=-245 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_97_-245.bin (first bytes: 0146014601460146014601460146014601460146ffffffff)
+[INFO ] [chunk] level_chunk x=95 z=-248 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_95_-248.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=99 z=-257 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_99_-257.bin (first bytes: 0300000000e0fff0fff8ffffffffffffffffffffffffffff)
+[INFO ] [chunk] level_chunk x=110 z=-252 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_110_-252.bin (first bytes: 012a012a012a012a012a012a012a012a012affffffffffff)
+[INFO ] [chunk] level_chunk x=99 z=-258 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_99_-258.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=97 z=-248 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_97_-248.bin (first bytes: 0146014601460146014601460146014601460146ffffffff)
+[INFO ] [chunk] level_chunk x=96 z=-247 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_96_-247.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=96 z=-246 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_96_-246.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=98 z=-247 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_98_-247.bin (first bytes: 0146014601460146014601460146014601460146ffffffff)
+[INFO ] [chunk] level_chunk x=97 z=-247 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_97_-247.bin (first bytes: 0146014601460146014601460146014601460146ffffffff)
+[INFO ] [chunk] level_chunk x=96 z=-248 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_96_-248.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=94 z=-246 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_94_-246.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=103 z=-243 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_103_-243.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=104 z=-243 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_104_-243.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=103 z=-242 subchunks=0 cache=false payloadBytes=5175
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_103_-242.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=104 z=-242 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_104_-242.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=105 z=-242 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_105_-242.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=102 z=-250 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_102_-250.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=101 z=-250 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_101_-250.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=102 z=-249 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_102_-249.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=103 z=-250 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_103_-250.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=102 z=-251 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_102_-251.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=101 z=-251 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_101_-251.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=103 z=-251 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_103_-251.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=101 z=-249 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_101_-249.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=103 z=-249 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_103_-249.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=104 z=-250 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_104_-250.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=100 z=-249 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_100_-249.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=104 z=-249 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_104_-249.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=102 z=-252 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_102_-252.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=100 z=-250 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_100_-250.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=103 z=-252 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_103_-252.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=101 z=-252 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_101_-252.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=100 z=-251 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_100_-251.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=104 z=-251 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_104_-251.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=100 z=-252 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_100_-252.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=104 z=-252 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_104_-252.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=102 z=-253 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_102_-253.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=103 z=-253 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_103_-253.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=101 z=-253 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_101_-253.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=100 z=-253 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_100_-253.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=104 z=-253 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_104_-253.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=98 z=-253 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_98_-253.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=98 z=-254 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_98_-254.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=97 z=-253 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_97_-253.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=96 z=-251 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_96_-251.bin (first bytes: 03000000000000e03fffffffffffffffffffffffffffffff)
+[INFO ] [chunk] level_chunk x=96 z=-252 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_96_-252.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=98 z=-255 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_98_-255.bin (first bytes: 030010001000300020000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=97 z=-254 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_97_-254.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=96 z=-253 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_96_-253.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=95 z=-251 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_95_-251.bin (first bytes: 03000000007000f800ff81ffc7ffffffffffffffffffffff)
+[INFO ] [chunk] level_chunk x=97 z=-255 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_97_-255.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=98 z=-256 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_98_-256.bin (first bytes: 030000000000000000e00000020000000000000000000000)
+[INFO ] [chunk] level_chunk x=96 z=-254 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_96_-254.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=95 z=-252 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_95_-252.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=95 z=-253 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_95_-253.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=99 z=-243 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_99_-243.bin (first bytes: 0146014601460146014601460146014601460146ffffffff)
+[INFO ] [chunk] level_chunk x=105 z=-243 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_105_-243.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=96 z=-255 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_96_-255.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=97 z=-256 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_97_-256.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=108 z=-255 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_108_-255.bin (first bytes: 010e010e010e010e010e010e010e010effffffffffffffff)
+[INFO ] [chunk] level_chunk x=94 z=-250 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_94_-250.bin (first bytes: 03003c007e00fe80ffe0ffe0ffe7ffffffffffffffffffff)
+[INFO ] [chunk] level_chunk x=98 z=-257 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_98_-257.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=98 z=-243 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_98_-243.bin (first bytes: 0146014601460146014601460146014601460146ffffffff)
+[INFO ] [chunk] level_chunk x=95 z=-254 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_95_-254.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=94 z=-251 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_94_-251.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=109 z=-254 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_109_-254.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=94 z=-249 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_94_-249.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=94 z=-248 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_94_-248.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=94 z=-252 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_94_-252.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=96 z=-256 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_96_-256.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=108 z=-256 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_108_-256.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=94 z=-247 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_94_-247.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=94 z=-253 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_94_-253.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=110 z=-253 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_110_-253.bin (first bytes: 012a012a012a012a012a012a012a012a012affffffffffff)
+[INFO ] [chunk] level_chunk x=95 z=-255 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_95_-255.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=109 z=-255 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_109_-255.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=97 z=-257 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_97_-257.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=110 z=-254 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_110_-254.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=98 z=-258 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_98_-258.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=94 z=-254 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_94_-254.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=96 z=-257 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_96_-257.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=109 z=-256 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_109_-256.bin (first bytes: 0300000000000000000000000000000000000010007c00ff)
+[INFO ] [chunk] level_chunk x=95 z=-256 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_95_-256.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=108 z=-257 subchunks=0 cache=false payloadBytes=5173
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_108_-257.bin (first bytes: 030000000000000000000000000000000000000000f01fff)
+[INFO ] [chunk] level_chunk x=97 z=-258 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_97_-258.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=109 z=-257 subchunks=0 cache=false payloadBytes=1063
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_109_-257.bin (first bytes: 012a012a012a0300c000e000e000fc00fe00fc00f800f800)
+[INFO ] [chunk] level_chunk x=95 z=-257 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_95_-257.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=108 z=-258 subchunks=0 cache=false payloadBytes=1063
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_108_-258.bin (first bytes: 012a012a012a0300e000e000f000e000c000800080008000)
+[INFO ] [chunk] level_chunk x=96 z=-258 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_96_-258.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [bedrock] spawned (player_spawn)
+[INFO ] [translate] Java -> Bedrock chat: hi
+[INFO ] [bedrock] session closed
+[INFO ] [bedrock] session ended: Disconnected
+[INFO ] disconnecting Java client: Disconnected from Bedrock server
+[INFO ] closing Bedrock session for musaboffical

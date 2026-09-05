@@ -1,0 +1,30 @@
+
+> j2b-translator@0.1.0 preview
+> tsx src/index.ts
+
+(node:16256) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+[INFO ] Java listener: 127.0.0.1:25565
+[INFO ] versions: Java 1.21.1 <-> Bedrock 26.40
+[INFO ] Bedrock target: saltanatsfsg.aternos.me:40156
+[INFO ] open TLauncher and point it at 127.0.0.1:25565
+[INFO ] player configured, entering PLAY (user reached M2 milestone)
+[INFO ] opening Bedrock session for musaboffical -> saltanatsfsg.aternos.me:40156
+[ERROR] [bedrock] session error: Ping timed out
+[INFO ] [translate] Java -> Bedrock chat: hi
+[WARN ] failed to decode packet from 127.0.0.1:54522: Cannot read properties of undefined (reading 'createPacketBuffer')
+[INFO ] closing Bedrock session for musaboffical
+[INFO ] player configured, entering PLAY (user reached M2 milestone)
+[INFO ] opening Bedrock session for musaboffical -> saltanatsfsg.aternos.me:40156
+Connecting to saltanatsfsg.aternos.me:40156 §7Welcome to the server ofsfs\! (world), version 1.26.40 
+[INFO ] [translate] Java -> Bedrock chat: hi
+[INFO ] [bedrock] authenticated as 'TrickedPepper29' (Xbox device login)
+[INFO ] [bedrock] joined (play_status login_success)
+[INFO ] [bedrock] start_game received (entity 1)
+[INFO ] [bedrock] spawned (player_spawn)
+[INFO ] [translate] Bedrock -> Java chat: §e%multiplayer.player.joined
+[INFO ] [translate] Bedrock -> Java chat: Nobody95668 is sleeping
+[INFO ] [translate] Bedrock -> Java chat: <Nobody95668§r> jdo
+[INFO ] [translate] Bedrock -> Java chat: Nobody95668 is sleeping
+[INFO ] closing Bedrock session for musaboffical
+[INFO ] [bedrock] session closed

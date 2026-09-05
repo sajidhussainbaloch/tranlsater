@@ -1,0 +1,272 @@
+[
+  {
+    "id": 2,
+    "name": "success",
+    "phase": "login",
+    "size": 32
+  },
+  {
+    "id": 1,
+    "name": "custom_payload",
+    "phase": "config",
+    "size": 25
+  },
+  {
+    "id": 12,
+    "name": "feature_flags",
+    "phase": "config",
+    "size": 20
+  },
+  {
+    "id": 14,
+    "name": "select_known_packs",
+    "phase": "config",
+    "size": 24
+  },
+  {
+    "id": 7,
+    "name": "registry_data",
+    "phase": "config",
+    "size": 22145
+  },
+  {
+    "id": 7,
+    "name": "registry_data",
+    "phase": "config",
+    "size": 1539
+  },
+  {
+    "id": 7,
+    "name": "registry_data",
+    "phase": "config",
+    "size": 3159
+  },
+  {
+    "id": 7,
+    "name": "registry_data",
+    "phase": "config",
+    "size": 2037
+  },
+  {
+    "id": 7,
+    "name": "registry_data",
+    "phase": "config",
+    "size": 1929
+  },
+  {
+    "id": 7,
+    "name": "registry_data",
+    "phase": "config",
+    "size": 3795
+  },
+  {
+    "id": 7,
+    "name": "registry_data",
+    "phase": "config",
+    "size": 1785
+  },
+  {
+    "id": 7,
+    "name": "registry_data",
+    "phase": "config",
+    "size": 5277
+  },
+  {
+    "id": 7,
+    "name": "registry_data",
+    "phase": "config",
+    "size": 4946
+  },
+  {
+    "id": 7,
+    "name": "registry_data",
+    "phase": "config",
+    "size": 29975
+  },
+  {
+    "id": 7,
+    "name": "registry_data",
+    "phase": "config",
+    "size": 3206
+  },
+  {
+    "id": 13,
+    "name": "tags",
+    "phase": "config",
+    "size": 25201
+  },
+  {
+    "id": 3,
+    "name": "finish_configuration",
+    "phase": "config",
+    "size": 1
+  },
+  {
+    "id": 43,
+    "name": "login(join_game)",
+    "phase": "play",
+    "size": 108
+  },
+  {
+    "id": 11,
+    "name": "difficulty",
+    "phase": "play",
+    "size": 3
+  },
+  {
+    "id": 56,
+    "name": "abilities",
+    "phase": "play",
+    "size": 10
+  },
+  {
+    "id": 83,
+    "name": "held_item_slot",
+    "phase": "play",
+    "size": 2
+  },
+  {
+    "id": 119,
+    "name": "0x77",
+    "phase": "play",
+    "size": 108271
+  },
+  {
+    "id": 31,
+    "name": "0x1f",
+    "phase": "play",
+    "size": 6
+  },
+  {
+    "id": 17,
+    "name": "declare_commands",
+    "phase": "play",
+    "size": 256
+  },
+  {
+    "id": 65,
+    "name": "0x41",
+    "phase": "play",
+    "size": 62
+  },
+  {
+    "id": 64,
+    "name": "position",
+    "phase": "play",
+    "size": 35
+  },
+  {
+    "id": 75,
+    "name": "server_data",
+    "phase": "play",
+    "size": 12
+  },
+  {
+    "id": 62,
+    "name": "player_info",
+    "phase": "play",
+    "size": 3
+  },
+  {
+    "id": 62,
+    "name": "player_info",
+    "phase": "play",
+    "size": 38
+  },
+  {
+    "id": 37,
+    "name": "0x25",
+    "phase": "play",
+    "size": 40
+  },
+  {
+    "id": 100,
+    "name": "0x64",
+    "phase": "play",
+    "size": 17
+  },
+  {
+    "id": 86,
+    "name": "0x56",
+    "phase": "play",
+    "size": 13
+  },
+  {
+    "id": 34,
+    "name": "0x22",
+    "phase": "play",
+    "size": 6
+  },
+  {
+    "id": 113,
+    "name": "0x71",
+    "phase": "play",
+    "size": 6
+  },
+  {
+    "id": 114,
+    "name": "0x72",
+    "phase": "play",
+    "size": 2
+  },
+  {
+    "id": 84,
+    "name": "0x54",
+    "phase": "play",
+    "size": 7
+  },
+  {
+    "id": 19,
+    "name": "0x13",
+    "phase": "play",
+    "size": 51
+  },
+  {
+    "id": 100,
+    "name": "0x64",
+    "phase": "play",
+    "size": 17
+  },
+  {
+    "id": 88,
+    "name": "0x58",
+    "phase": "play",
+    "size": 9
+  },
+  {
+    "id": 117,
+    "name": "0x75",
+    "phase": "play",
+    "size": 33
+  },
+  {
+    "id": 116,
+    "name": "0x74",
+    "phase": "play",
+    "size": 275
+  },
+  {
+    "id": 93,
+    "name": "0x5d",
+    "phase": "play",
+    "size": 10
+  },
+  {
+    "id": 92,
+    "name": "0x5c",
+    "phase": "play",
+    "size": 7
+  },
+  {
+    "id": 13,
+    "name": "chunk_batch_start",
+    "phase": "play",
+    "size": 1
+  },
+  {
+    "id": 12,
+    "name": "chunk_batch_finished",
+    "phase": "play",
+    "size": 2
+  }
+]

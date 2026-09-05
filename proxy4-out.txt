@@ -1,0 +1,44 @@
+
+> j2b-translator@0.1.0 preview
+> tsx src/index.ts --dev-server
+
+[INFO ] [dev-bedrock] listening on 127.0.0.1:19132 (1.26.40, offline)
+(node:1432) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+[INFO ] Java listener: 127.0.0.1:25565
+[INFO ] versions: Java 1.21.1 <-> Bedrock 26.40
+[INFO ] Bedrock target: 127.0.0.1:19132 (local dev server)
+[INFO ] open TLauncher and point it at 127.0.0.1:25565
+[INFO ] player configured, entering PLAY (user reached M2 milestone)
+[INFO ] opening Bedrock session for musaboffical -> 127.0.0.1:19132
+Connecting to 127.0.0.1:19132 j2b-translator local dev (j2b-translator dev), version 1.26.40 
+[INFO ] [bedrock] authenticated as 'musaboffical' (offline)
+[INFO ] [dev-bedrock] connect: 
+[INFO ] [bedrock] joined (play_status login_success)
+[INFO ] [dev-bedrock] join: musaboffical
+[INFO ] [dev-bedrock] sent start_game + resource_packs_info
+[INFO ] [bedrock] start_game received (entity 1)
+[INFO ] [dev-bedrock] sent resource_pack_stack
+[INFO ] [dev-bedrock] sent chunk_radius_update + player_spawn
+[INFO ] [bedrock] spawned (player_spawn)
+[INFO ] [dev-bedrock] spawned: musaboffical
+[INFO ] [translate] Bedrock -> Java chat: Hello from Bedrock dev server (translated over M4 pipe)
+[INFO ] [translate] Java -> Bedrock chat: gd
+[INFO ] closing Bedrock session for musaboffical
+[INFO ] [bedrock] session closed
+[INFO ] player configured, entering PLAY (user reached M2 milestone)
+[INFO ] opening Bedrock session for musaboffical -> 127.0.0.1:19132
+Connecting to 127.0.0.1:19132 j2b-translator local dev (j2b-translator dev), version 1.26.40 
+[INFO ] [bedrock] authenticated as 'musaboffical' (offline)
+[INFO ] [dev-bedrock] connect: 
+[INFO ] [bedrock] joined (play_status login_success)
+[INFO ] [dev-bedrock] join: musaboffical
+[INFO ] [dev-bedrock] sent start_game + resource_packs_info
+[INFO ] [bedrock] start_game received (entity 1)
+[INFO ] [dev-bedrock] sent resource_pack_stack
+[INFO ] [dev-bedrock] sent chunk_radius_update + player_spawn
+[INFO ] [bedrock] spawned (player_spawn)
+[INFO ] [dev-bedrock] spawned: musaboffical
+[INFO ] [translate] Bedrock -> Java chat: Hello from Bedrock dev server (translated over M4 pipe)
+[INFO ] closing Bedrock session for musaboffical
+[INFO ] [bedrock] session closed

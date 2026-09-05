@@ -1,0 +1,1437 @@
+[INFO ] Java listener: 127.0.0.1:25565
+[INFO ] versions: Java 1.21.1 <-> Bedrock 26.40
+[INFO ] Bedrock target: saltanatsfsg.aternos.me:40156
+[INFO ] open TLauncher and point it at 127.0.0.1:25565
+[INFO ] player configured, entering PLAY (user reached M2 milestone)
+[INFO ] opening Bedrock session for musaboffical -> saltanatsfsg.aternos.me:40156
+Connecting to saltanatsfsg.aternos.me:40156 §7Welcome to the server ofsfs\! (world), version 1.26.40 
+[INFO ] [bedrock] authenticated as 'TrickedPepper29' (Xbox device login)
+[INFO ] [bedrock] joined (play_status login_success)
+[INFO ] [bedrock] start_game received (entity 13540, block palette: 0)
+[INFO ] [blocks] palette mapped: 253 states, 1 unmapped (legacy fallback)
+[INFO ] [blocks] first unmapped runtime ids: 36:?
+[INFO ] [blocks] palette mapped: 253 states, 1 unmapped (legacy fallback)
+[INFO ] [blocks] first unmapped runtime ids: 36:?
+[INFO ] [chunk] level_chunk x=102 z=-250 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 102,-250 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_102_-250.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=102 z=-251 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 102,-251 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_102_-251.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=102 z=-249 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 102,-249 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_102_-249.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=101 z=-250 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 101,-250 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_101_-250.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=103 z=-250 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 103,-250 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_103_-250.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=103 z=-249 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 103,-249 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_103_-249.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=101 z=-251 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 101,-251 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_101_-251.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=103 z=-251 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 103,-251 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_103_-251.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=101 z=-249 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 101,-249 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_101_-249.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=102 z=-252 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 102,-252 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_102_-252.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=100 z=-250 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 100,-250 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_100_-250.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=104 z=-250 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 104,-250 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_104_-250.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=102 z=-248 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 102,-248 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_102_-248.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=101 z=-248 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 101,-248 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_101_-248.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=103 z=-248 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 103,-248 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_103_-248.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=100 z=-249 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 100,-249 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_100_-249.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=104 z=-249 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 104,-249 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_104_-249.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=103 z=-252 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 103,-252 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_103_-252.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=101 z=-252 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 101,-252 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_101_-252.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=104 z=-251 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 104,-251 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_104_-251.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=100 z=-251 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 100,-251 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_100_-251.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=104 z=-252 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 104,-252 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_104_-252.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=100 z=-252 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 100,-252 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_100_-252.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=100 z=-248 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 100,-248 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_100_-248.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=104 z=-248 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 104,-248 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_104_-248.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=102 z=-253 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 102,-253 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_102_-253.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=102 z=-247 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 102,-247 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_102_-247.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=105 z=-250 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 105,-250 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_105_-250.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=99 z=-250 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 99,-250 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_99_-250.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=99 z=-251 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 99,-251 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_99_-251.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=103 z=-253 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 103,-253 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_103_-253.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=99 z=-249 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] parsed: subs=9 bpb=[1,1,1,1,1,1,1,1,1] tail=16B
+[INFO ] [chunk] -> Java map_chunk 99,-249 body=67912B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_99_-249.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=101 z=-253 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 101,-253 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_101_-253.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=103 z=-247 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 103,-247 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_103_-247.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=101 z=-247 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 101,-247 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_101_-247.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=105 z=-249 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 105,-249 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_105_-249.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=105 z=-251 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 105,-251 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_105_-251.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=105 z=-248 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 105,-248 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_105_-248.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=100 z=-253 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 100,-253 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_100_-253.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=104 z=-247 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 104,-247 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_104_-247.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=104 z=-253 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] parsed: subs=9 bpb=[1,1,1,1,1,1,1,1,1] tail=16B
+[INFO ] [chunk] -> Java map_chunk 104,-253 body=67912B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_104_-253.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=99 z=-252 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 99,-252 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_99_-252.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=105 z=-252 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] parsed: subs=9 bpb=[1,1,1,1,1,1,1,1,1] tail=16B
+[INFO ] [chunk] -> Java map_chunk 105,-252 body=67912B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_105_-252.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=100 z=-247 subchunks=0 cache=false payloadBytes=5175
+[INFO ] [chunk] parsed: subs=10 bpb=[1,1,1,1,1,1,1,1,1,1] tail=15B
+[INFO ] [chunk] -> Java map_chunk 100,-247 body=69964B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_100_-247.bin (first bytes: 0300006000e000f001f303ff07ff0fff1fffffffffffffff)
+[INFO ] [chunk] level_chunk x=99 z=-248 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] parsed: subs=9 bpb=[1,1,1,1,1,1,1,1,1] tail=16B
+[INFO ] [chunk] -> Java map_chunk 99,-248 body=67912B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_99_-248.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=106 z=-250 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 106,-250 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_106_-250.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=98 z=-250 subchunks=0 cache=false payloadBytes=5175
+[INFO ] [chunk] parsed: subs=10 bpb=[1,1,1,1,1,1,1,1,1,1] tail=15B
+[INFO ] [chunk] -> Java map_chunk 98,-250 body=69964B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_98_-250.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=102 z=-246 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 102,-246 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_102_-246.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=102 z=-254 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 102,-254 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_102_-254.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=103 z=-254 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 103,-254 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_103_-254.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=103 z=-246 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 103,-246 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_103_-246.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=101 z=-246 subchunks=0 cache=false payloadBytes=5175
+[INFO ] [chunk] parsed: subs=10 bpb=[1,1,1,1,1,1,1,1,1,1] tail=15B
+[INFO ] [chunk] -> Java map_chunk 101,-246 body=69964B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_101_-246.bin (first bytes: 030000000000000000000000000000000000000f00ff03ff)
+[INFO ] [chunk] level_chunk x=98 z=-251 subchunks=0 cache=false payloadBytes=9277
+[INFO ] [chunk] parsed: subs=9 bpb=[2,2,2,2,2,2,2,2,2] tail=16B
+[INFO ] [chunk] -> Java map_chunk 98,-251 body=67930B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_98_-251.bin (first bytes: 050000000000000000150040015501540555555555555555)
+[INFO ] [chunk] level_chunk x=106 z=-249 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 106,-249 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_106_-249.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=106 z=-251 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] parsed: subs=9 bpb=[1,1,1,1,1,1,1,1,1] tail=16B
+[INFO ] [chunk] -> Java map_chunk 106,-251 body=67912B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_106_-251.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=101 z=-254 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 101,-254 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_101_-254.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=98 z=-249 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] parsed: subs=9 bpb=[1,1,1,1,1,1,1,1,1] tail=16B
+[INFO ] [chunk] -> Java map_chunk 98,-249 body=67912B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_98_-249.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=105 z=-247 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] parsed: subs=10 bpb=[0,0,0,0,0,0,0,0,0,0] tail=15B
+[INFO ] [chunk] -> Java map_chunk 105,-247 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_105_-247.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=99 z=-247 subchunks=0 cache=false payloadBytes=5175
+[INFO ] [chunk] parsed: subs=10 bpb=[1,1,1,1,1,1,1,1,1,1] tail=15B
+[INFO ] [chunk] -> Java map_chunk 99,-247 body=69964B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_99_-247.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=105 z=-253 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] parsed: subs=9 bpb=[1,1,1,1,1,1,1,1,1] tail=16B
+[INFO ] [chunk] -> Java map_chunk 105,-253 body=67912B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_105_-253.bin (first bytes: 0300000000000000000000000000000000000000000000f0)
+[INFO ] [chunk] level_chunk x=99 z=-253 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 99,-253 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_99_-253.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=100 z=-246 subchunks=0 cache=false payloadBytes=5175
+[INFO ] [chunk] parsed: subs=10 bpb=[1,1,1,1,1,1,1,1,1,1] tail=15B
+[INFO ] [chunk] -> Java map_chunk 100,-246 body=69964B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_100_-246.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=98 z=-248 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] parsed: subs=10 bpb=[0,0,0,0,0,0,0,0,0,0] tail=15B
+[INFO ] [chunk] -> Java map_chunk 98,-248 body=49453B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_98_-248.bin (first bytes: 0146014601460146014601460146014601460146ffffffff)
+[INFO ] [chunk] level_chunk x=106 z=-252 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] parsed: subs=9 bpb=[1,1,1,1,1,1,1,1,1] tail=16B
+[INFO ] [chunk] -> Java map_chunk 106,-252 body=67912B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_106_-252.bin (first bytes: 030000004000e080ffc0ffc0ffe1ffe3ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=104 z=-254 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] parsed: subs=8 bpb=[1,1,1,1,1,1,1,1] tail=17B
+[INFO ] [chunk] -> Java map_chunk 104,-254 body=65860B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_104_-254.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=100 z=-254 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 100,-254 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_100_-254.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=104 z=-246 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] parsed: subs=10 bpb=[0,0,0,0,0,0,0,0,0,0] tail=15B
+[INFO ] [chunk] -> Java map_chunk 104,-246 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_104_-246.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=98 z=-252 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] parsed: subs=8 bpb=[1,1,1,1,1,1,1,1] tail=17B
+[INFO ] [chunk] -> Java map_chunk 98,-252 body=65860B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_98_-252.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=106 z=-248 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 106,-248 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_106_-248.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=105 z=-246 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] parsed: subs=10 bpb=[0,0,0,0,0,0,0,0,0,0] tail=15B
+[INFO ] [chunk] -> Java map_chunk 105,-246 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_105_-246.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=106 z=-253 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 106,-253 body=49452B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_106_-253.bin (first bytes: 012e012e012e012e012e012e012e012e012effffffffffff)
+[INFO ] [chunk] level_chunk x=98 z=-253 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] parsed: subs=8 bpb=[1,1,1,1,1,1,1,1] tail=17B
+[INFO ] [chunk] -> Java map_chunk 98,-253 body=65860B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_98_-253.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=105 z=-254 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 105,-254 body=49452B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_105_-254.bin (first bytes: 012e012e012e012e012e012e012e012e012effffffffffff)
+[INFO ] [chunk] level_chunk x=99 z=-254 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] parsed: subs=9 bpb=[1,1,1,1,1,1,1,1,1] tail=16B
+[INFO ] [chunk] -> Java map_chunk 99,-254 body=67912B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_99_-254.bin (first bytes: 03000000000000000000000000000000000000004000c000)
+[INFO ] [chunk] level_chunk x=106 z=-247 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] parsed: subs=10 bpb=[0,0,0,0,0,0,0,0,0,0] tail=15B
+[INFO ] [chunk] -> Java map_chunk 106,-247 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_106_-247.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=98 z=-247 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] parsed: subs=10 bpb=[0,0,0,0,0,0,0,0,0,0] tail=15B
+[INFO ] [chunk] -> Java map_chunk 98,-247 body=49453B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_98_-247.bin (first bytes: 0146014601460146014601460146014601460146ffffffff)
+[INFO ] [chunk] level_chunk x=99 z=-246 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] parsed: subs=10 bpb=[0,0,0,0,0,0,0,0,0,0] tail=15B
+[INFO ] [chunk] -> Java map_chunk 99,-246 body=49453B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_99_-246.bin (first bytes: 0146014601460146014601460146014601460146ffffffff)
+[INFO ] [chunk] level_chunk x=106 z=-254 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 106,-254 body=49452B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_106_-254.bin (first bytes: 012e012e012e012e012e012e012e012e012effffffffffff)
+[INFO ] [chunk] level_chunk x=98 z=-246 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] parsed: subs=10 bpb=[0,0,0,0,0,0,0,0,0,0] tail=15B
+[INFO ] [chunk] -> Java map_chunk 98,-246 body=49453B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_98_-246.bin (first bytes: 0146014601460146014601460146014601460146ffffffff)
+[INFO ] [chunk] level_chunk x=106 z=-246 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] parsed: subs=10 bpb=[0,0,0,0,0,0,0,0,0,0] tail=15B
+[INFO ] [chunk] -> Java map_chunk 106,-246 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_106_-246.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=98 z=-254 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] parsed: subs=8 bpb=[1,1,1,1,1,1,1,1] tail=17B
+[INFO ] [chunk] -> Java map_chunk 98,-254 body=65860B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_98_-254.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=102 z=-245 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] parsed: subs=10 bpb=[0,0,0,0,0,0,0,0,0,0] tail=15B
+[INFO ] [chunk] -> Java map_chunk 102,-245 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_102_-245.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=102 z=-255 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 102,-255 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_102_-255.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=107 z=-250 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] parsed: subs=9 bpb=[1,1,1,1,1,1,1,1,1] tail=16B
+[INFO ] [chunk] -> Java map_chunk 107,-250 body=67912B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_107_-250.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=97 z=-250 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 97,-250 body=49452B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_97_-250.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=101 z=-255 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 101,-255 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_101_-255.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=103 z=-245 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 103,-245 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_103_-245.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=97 z=-249 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 97,-249 body=49452B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_97_-249.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=107 z=-249 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] parsed: subs=9 bpb=[1,1,1,1,1,1,1,1,1] tail=16B
+[INFO ] [chunk] -> Java map_chunk 107,-249 body=67912B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_107_-249.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=103 z=-255 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] parsed: subs=9 bpb=[1,1,1,1,1,1,1,1,1] tail=16B
+[INFO ] [chunk] -> Java map_chunk 103,-255 body=67912B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_103_-255.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=97 z=-251 subchunks=0 cache=false payloadBytes=9277
+[INFO ] [chunk] parsed: subs=9 bpb=[2,2,2,2,2,2,2,2,2] tail=16B
+[INFO ] [chunk] -> Java map_chunk 97,-251 body=67930B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_97_-251.bin (first bytes: 050000000000000000000050000000550100555505545555)
+[INFO ] [chunk] level_chunk x=107 z=-251 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] parsed: subs=9 bpb=[1,1,1,1,1,1,1,1,1] tail=16B
+[INFO ] [chunk] -> Java map_chunk 107,-251 body=67912B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_107_-251.bin (first bytes: 03000000000000000000000000000000000000000000007f)
+[INFO ] [chunk] level_chunk x=101 z=-245 subchunks=0 cache=false payloadBytes=5175
+[INFO ] [chunk] parsed: subs=10 bpb=[1,1,1,1,1,1,1,1,1,1] tail=15B
+[INFO ] [chunk] -> Java map_chunk 101,-245 body=69964B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_101_-245.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=97 z=-252 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] parsed: subs=8 bpb=[0,0,0,0,0,0,0,0] tail=17B
+[INFO ] [chunk] -> Java map_chunk 97,-252 body=49451B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_97_-252.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=100 z=-255 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 100,-255 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_100_-255.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=107 z=-248 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 107,-248 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_107_-248.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=97 z=-248 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] parsed: subs=10 bpb=[0,0,0,0,0,0,0,0,0,0] tail=15B
+[INFO ] [chunk] -> Java map_chunk 97,-248 body=49453B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_97_-248.bin (first bytes: 0146014601460146014601460146014601460146ffffffff)
+[INFO ] [chunk] level_chunk x=100 z=-245 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] parsed: subs=10 bpb=[0,0,0,0,0,0,0,0,0,0] tail=15B
+[INFO ] [chunk] -> Java map_chunk 100,-245 body=49453B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_100_-245.bin (first bytes: 0146014601460146014601460146014601460146ffffffff)
+[INFO ] [chunk] level_chunk x=107 z=-252 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 107,-252 body=49452B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_107_-252.bin (first bytes: 012e012e012e012e012e012e012e012e012effffffffffff)
+[INFO ] [chunk] level_chunk x=104 z=-245 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] parsed: subs=10 bpb=[0,0,0,0,0,0,0,0,0,0] tail=15B
+[INFO ] [chunk] -> Java map_chunk 104,-245 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_104_-245.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=104 z=-255 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] parsed: subs=9 bpb=[1,1,1,1,1,1,1,1,1] tail=16B
+[INFO ] [chunk] -> Java map_chunk 104,-255 body=67912B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_104_-255.bin (first bytes: 0300000100070007000f7ccf7fffffffffffffffffffffff)
+[INFO ] [chunk] level_chunk x=99 z=-245 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] parsed: subs=10 bpb=[0,0,0,0,0,0,0,0,0,0] tail=15B
+[INFO ] [chunk] -> Java map_chunk 99,-245 body=49453B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_99_-245.bin (first bytes: 0146014601460146014601460146014601460146ffffffff)
+[INFO ] [chunk] level_chunk x=99 z=-255 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] parsed: subs=9 bpb=[1,1,1,1,1,1,1,1,1] tail=16B
+[INFO ] [chunk] -> Java map_chunk 99,-255 body=67912B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_99_-255.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=97 z=-247 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] parsed: subs=10 bpb=[0,0,0,0,0,0,0,0,0,0] tail=15B
+[INFO ] [chunk] -> Java map_chunk 97,-247 body=49453B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_97_-247.bin (first bytes: 0146014601460146014601460146014601460146ffffffff)
+[INFO ] [chunk] level_chunk x=107 z=-247 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 107,-247 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_107_-247.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=105 z=-255 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 105,-255 body=49452B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_105_-255.bin (first bytes: 012e012e012e012e012e012e012e012e012effffffffffff)
+[INFO ] [chunk] level_chunk x=105 z=-245 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] parsed: subs=10 bpb=[0,0,0,0,0,0,0,0,0,0] tail=15B
+[INFO ] [chunk] -> Java map_chunk 105,-245 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_105_-245.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=97 z=-253 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] parsed: subs=8 bpb=[0,0,0,0,0,0,0,0] tail=17B
+[INFO ] [chunk] -> Java map_chunk 97,-253 body=49451B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_97_-253.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=107 z=-253 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 107,-253 body=49452B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_107_-253.bin (first bytes: 012e012e012e012e012e012e012e012e012effffffffffff)
+[INFO ] [chunk] level_chunk x=96 z=-250 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 96,-250 body=49452B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_96_-250.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=102 z=-244 subchunks=0 cache=false payloadBytes=5175
+[INFO ] [chunk] parsed: subs=10 bpb=[1,1,1,1,1,1,1,1,1,1] tail=15B
+[INFO ] [chunk] -> Java map_chunk 102,-244 body=69964B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_102_-244.bin (first bytes: 030000000000000000000000000000000000000000070007)
+[INFO ] [chunk] level_chunk x=108 z=-250 subchunks=0 cache=false payloadBytes=9277
+[INFO ] [chunk] parsed: subs=9 bpb=[2,2,2,2,2,2,2,2,2] tail=16B
+[INFO ] [chunk] -> Java map_chunk 108,-250 body=67921B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_108_-250.bin (first bytes: 050000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=102 z=-256 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] parsed: subs=9 bpb=[1,1,1,1,1,1,1,1,1] tail=16B
+[INFO ] [chunk] -> Java map_chunk 102,-256 body=67912B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_102_-256.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=96 z=-251 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] parsed: subs=8 bpb=[1,1,1,1,1,1,1,1] tail=17B
+[INFO ] [chunk] -> Java map_chunk 96,-251 body=65868B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_96_-251.bin (first bytes: 03000000000000e03fffffffffffffffffffffffffffffff)
+[INFO ] [chunk] level_chunk x=101 z=-244 subchunks=0 cache=false payloadBytes=5175
+[INFO ] [chunk] parsed: subs=10 bpb=[1,1,1,1,1,1,1,1,1,1] tail=15B
+[INFO ] [chunk] -> Java map_chunk 101,-244 body=69964B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_101_-244.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=103 z=-256 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] parsed: subs=9 bpb=[1,1,1,1,1,1,1,1,1] tail=16B
+[INFO ] [chunk] -> Java map_chunk 103,-256 body=67912B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_103_-256.bin (first bytes: 0300000000000000000308031c07ff87ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=103 z=-244 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] parsed: subs=10 bpb=[0,0,0,0,0,0,0,0,0,0] tail=15B
+[INFO ] [chunk] -> Java map_chunk 103,-244 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_103_-244.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=101 z=-256 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 101,-256 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_101_-256.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=108 z=-251 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] parsed: subs=9 bpb=[1,1,1,1,1,1,1,1,1] tail=16B
+[INFO ] [chunk] -> Java map_chunk 108,-251 body=67912B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_108_-251.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=96 z=-249 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 96,-249 body=49452B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_96_-249.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=108 z=-249 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] parsed: subs=9 bpb=[1,1,1,1,1,1,1,1,1] tail=16B
+[INFO ] [chunk] -> Java map_chunk 108,-249 body=67912B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_108_-249.bin (first bytes: 0300000000007180ffe0ffffffffffffffffffffffffffff)
+[INFO ] [chunk] level_chunk x=108 z=-252 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] parsed: subs=8 bpb=[1,1,1,1,1,1,1,1] tail=17B
+[INFO ] [chunk] -> Java map_chunk 108,-252 body=65860B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_108_-252.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=100 z=-256 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 100,-256 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_100_-256.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=96 z=-252 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] parsed: subs=8 bpb=[0,0,0,0,0,0,0,0] tail=17B
+[INFO ] [chunk] -> Java map_chunk 96,-252 body=49451B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_96_-252.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=104 z=-244 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] parsed: subs=10 bpb=[0,0,0,0,0,0,0,0,0,0] tail=15B
+[INFO ] [chunk] -> Java map_chunk 104,-244 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_104_-244.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=96 z=-248 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 96,-248 body=49452B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_96_-248.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=108 z=-248 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 108,-248 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_108_-248.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=104 z=-256 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 104,-256 body=49452B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_104_-256.bin (first bytes: 012e012e012e012e012e012e012e012e012effffffffffff)
+[INFO ] [chunk] level_chunk x=100 z=-244 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] parsed: subs=10 bpb=[0,0,0,0,0,0,0,0,0,0] tail=15B
+[INFO ] [chunk] -> Java map_chunk 100,-244 body=49453B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_100_-244.bin (first bytes: 0146014601460146014601460146014601460146ffffffff)
+[INFO ] [chunk] level_chunk x=106 z=-245 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] parsed: subs=10 bpb=[0,0,0,0,0,0,0,0,0,0] tail=15B
+[INFO ] [chunk] -> Java map_chunk 106,-245 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_106_-245.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=107 z=-254 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] parsed: subs=8 bpb=[1,1,1,1,1,1,1,1] tail=17B
+[INFO ] [chunk] -> Java map_chunk 107,-254 body=65860B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_107_-254.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=97 z=-254 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] parsed: subs=8 bpb=[0,0,0,0,0,0,0,0] tail=17B
+[INFO ] [chunk] -> Java map_chunk 97,-254 body=49451B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_97_-254.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=98 z=-245 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] parsed: subs=10 bpb=[0,0,0,0,0,0,0,0,0,0] tail=15B
+[INFO ] [chunk] -> Java map_chunk 98,-245 body=49453B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_98_-245.bin (first bytes: 0146014601460146014601460146014601460146ffffffff)
+[INFO ] [chunk] level_chunk x=97 z=-246 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 97,-246 body=49452B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_97_-246.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=107 z=-246 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] parsed: subs=10 bpb=[0,0,0,0,0,0,0,0,0,0] tail=15B
+[INFO ] [chunk] -> Java map_chunk 107,-246 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_107_-246.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=98 z=-255 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] parsed: subs=8 bpb=[1,1,1,1,1,1,1,1] tail=17B
+[INFO ] [chunk] -> Java map_chunk 98,-255 body=65860B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_98_-255.bin (first bytes: 030010001000300020000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=106 z=-255 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 106,-255 body=49452B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_106_-255.bin (first bytes: 012e012e012e012e012e012e012e012e012effffffffffff)
+[INFO ] [chunk] level_chunk x=96 z=-247 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 96,-247 body=49452B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_96_-247.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=96 z=-253 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] parsed: subs=8 bpb=[0,0,0,0,0,0,0,0] tail=17B
+[INFO ] [chunk] -> Java map_chunk 96,-253 body=49451B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_96_-253.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=105 z=-256 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 105,-256 body=49452B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_105_-256.bin (first bytes: 012e012e012e012e012e012e012e012e012effffffffffff)
+[INFO ] [chunk] level_chunk x=108 z=-247 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 108,-247 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_108_-247.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=99 z=-256 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 99,-256 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_99_-256.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=105 z=-244 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] parsed: subs=10 bpb=[0,0,0,0,0,0,0,0,0,0] tail=15B
+[INFO ] [chunk] -> Java map_chunk 105,-244 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_105_-244.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=108 z=-253 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] parsed: subs=8 bpb=[1,1,1,1,1,1,1,1] tail=17B
+[INFO ] [chunk] -> Java map_chunk 108,-253 body=65860B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_108_-253.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=99 z=-244 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] parsed: subs=10 bpb=[0,0,0,0,0,0,0,0,0,0] tail=15B
+[INFO ] [chunk] -> Java map_chunk 99,-244 body=49453B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_99_-244.bin (first bytes: 0146014601460146014601460146014601460146ffffffff)
+[INFO ] [chunk] level_chunk x=109 z=-250 subchunks=0 cache=false payloadBytes=10305
+[INFO ] [chunk] parsed: subs=10 bpb=[2,2,2,2,2,2,2,2,2,2] tail=15B
+[INFO ] [chunk] -> Java map_chunk 109,-250 body=69984B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_109_-250.bin (first bytes: 050000000000000000000000000000005400555555505555)
+[INFO ] [chunk] level_chunk x=95 z=-250 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 95,-250 body=49452B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_95_-250.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=102 z=-257 subchunks=0 cache=false payloadBytes=9277
+[INFO ] [chunk] parsed: subs=9 bpb=[2,2,2,2,2,2,2,2,2] tail=16B
+[INFO ] [chunk] -> Java map_chunk 102,-257 body=67930B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_102_-257.bin (first bytes: 050000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=102 z=-243 subchunks=0 cache=false payloadBytes=5175
+[INFO ] [chunk] parsed: subs=10 bpb=[1,1,1,1,1,1,1,1,1,1] tail=15B
+[INFO ] [chunk] -> Java map_chunk 102,-243 body=69964B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_102_-243.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=107 z=-245 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] parsed: subs=10 bpb=[0,0,0,0,0,0,0,0,0,0] tail=15B
+[INFO ] [chunk] -> Java map_chunk 107,-245 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_107_-245.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=107 z=-255 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] parsed: subs=8 bpb=[1,1,1,1,1,1,1,1] tail=17B
+[INFO ] [chunk] -> Java map_chunk 107,-255 body=65860B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_107_-255.bin (first bytes: 030000000000000030003000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=95 z=-249 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 95,-249 body=49452B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_95_-249.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=97 z=-255 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] parsed: subs=8 bpb=[0,0,0,0,0,0,0,0] tail=17B
+[INFO ] [chunk] -> Java map_chunk 97,-255 body=49451B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_97_-255.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=109 z=-249 subchunks=0 cache=false payloadBytes=9277
+[INFO ] [chunk] parsed: subs=9 bpb=[2,2,2,2,2,2,2,2,2] tail=16B
+[INFO ] [chunk] -> Java map_chunk 109,-249 body=67921B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_109_-249.bin (first bytes: 050000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=97 z=-245 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] parsed: subs=10 bpb=[0,0,0,0,0,0,0,0,0,0] tail=15B
+[INFO ] [chunk] -> Java map_chunk 97,-245 body=49453B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_97_-245.bin (first bytes: 0146014601460146014601460146014601460146ffffffff)
+[INFO ] [chunk] level_chunk x=101 z=-257 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 101,-257 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_101_-257.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=95 z=-251 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] parsed: subs=9 bpb=[1,1,1,1,1,1,1,1,1] tail=16B
+[INFO ] [chunk] -> Java map_chunk 95,-251 body=67921B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_95_-251.bin (first bytes: 03000000007000f800ff81ffc7ffffffffffffffffffffff)
+[INFO ] [chunk] level_chunk x=103 z=-257 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] parsed: subs=9 bpb=[1,1,1,1,1,1,1,1,1] tail=16B
+[INFO ] [chunk] -> Java map_chunk 103,-257 body=67921B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_103_-257.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=103 z=-243 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] parsed: subs=10 bpb=[0,0,0,0,0,0,0,0,0,0] tail=15B
+[INFO ] [chunk] -> Java map_chunk 103,-243 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_103_-243.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=109 z=-251 subchunks=0 cache=false payloadBytes=5175
+[INFO ] [chunk] parsed: subs=10 bpb=[1,1,1,1,1,1,1,1,1,1] tail=15B
+[INFO ] [chunk] -> Java map_chunk 109,-251 body=69964B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_109_-251.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=101 z=-243 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] parsed: subs=10 bpb=[0,0,0,0,0,0,0,0,0,0] tail=15B
+[INFO ] [chunk] -> Java map_chunk 101,-243 body=49453B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_101_-243.bin (first bytes: 0146014601460146014601460146014601460146ffffffff)
+[INFO ] [chunk] level_chunk x=96 z=-246 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 96,-246 body=49452B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_96_-246.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=106 z=-244 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] parsed: subs=10 bpb=[0,0,0,0,0,0,0,0,0,0] tail=15B
+[INFO ] [chunk] -> Java map_chunk 106,-244 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_106_-244.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=108 z=-254 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] parsed: subs=8 bpb=[1,1,1,1,1,1,1,1] tail=17B
+[INFO ] [chunk] -> Java map_chunk 108,-254 body=65860B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_108_-254.bin (first bytes: 030000000000000000000000000000000006000f000f081f)
+[INFO ] [chunk] level_chunk x=98 z=-256 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] parsed: subs=8 bpb=[1,1,1,1,1,1,1,1] tail=17B
+[INFO ] [chunk] -> Java map_chunk 98,-256 body=65860B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_98_-256.bin (first bytes: 030000000000000000e00000020000000000000000000000)
+[INFO ] [chunk] level_chunk x=106 z=-256 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] parsed: subs=8 bpb=[1,1,1,1,1,1,1,1] tail=17B
+[INFO ] [chunk] -> Java map_chunk 106,-256 body=65860B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_106_-256.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=98 z=-244 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] parsed: subs=10 bpb=[0,0,0,0,0,0,0,0,0,0] tail=15B
+[INFO ] [chunk] -> Java map_chunk 98,-244 body=49453B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_98_-244.bin (first bytes: 0146014601460146014601460146014601460146ffffffff)
+[INFO ] [chunk] level_chunk x=96 z=-254 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] parsed: subs=8 bpb=[0,0,0,0,0,0,0,0] tail=17B
+[INFO ] [chunk] -> Java map_chunk 96,-254 body=49451B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_96_-254.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=108 z=-246 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 108,-246 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_108_-246.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=109 z=-252 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] parsed: subs=8 bpb=[1,1,1,1,1,1,1,1] tail=17B
+[INFO ] [chunk] -> Java map_chunk 109,-252 body=65860B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_109_-252.bin (first bytes: 030000000000000000002000200000000000000000000000)
+[INFO ] [chunk] level_chunk x=95 z=-252 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] parsed: subs=8 bpb=[0,0,0,0,0,0,0,0] tail=17B
+[INFO ] [chunk] -> Java map_chunk 95,-252 body=49451B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_95_-252.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=104 z=-243 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] parsed: subs=10 bpb=[0,0,0,0,0,0,0,0,0,0] tail=15B
+[INFO ] [chunk] -> Java map_chunk 104,-243 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_104_-243.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=95 z=-248 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 95,-248 body=49452B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_95_-248.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=109 z=-248 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] parsed: subs=9 bpb=[1,1,1,1,1,1,1,1,1] tail=16B
+[INFO ] [chunk] -> Java map_chunk 109,-248 body=67903B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_109_-248.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=104 z=-257 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 104,-257 body=49452B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_104_-257.bin (first bytes: 012e012e012e012e012e012e012e012e012effffffffffff)
+[INFO ] [chunk] level_chunk x=100 z=-257 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 100,-257 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_100_-257.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=100 z=-243 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 100,-243 body=49452B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_100_-243.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=95 z=-253 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] parsed: subs=8 bpb=[0,0,0,0,0,0,0,0] tail=17B
+[INFO ] [chunk] -> Java map_chunk 95,-253 body=49451B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_95_-253.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=99 z=-243 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] parsed: subs=10 bpb=[0,0,0,0,0,0,0,0,0,0] tail=15B
+[INFO ] [chunk] -> Java map_chunk 99,-243 body=49453B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_99_-243.bin (first bytes: 0146014601460146014601460146014601460146ffffffff)
+[INFO ] [chunk] level_chunk x=105 z=-257 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] parsed: subs=8 bpb=[0,0,0,0,0,0,0,0] tail=17B
+[INFO ] [chunk] -> Java map_chunk 105,-257 body=49451B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_105_-257.bin (first bytes: 012e012e012e012e012e012e012e012effffffffffffffff)
+[INFO ] [chunk] level_chunk x=99 z=-257 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] parsed: subs=8 bpb=[1,1,1,1,1,1,1,1] tail=17B
+[INFO ] [chunk] -> Java map_chunk 99,-257 body=65860B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_99_-257.bin (first bytes: 0300000000e0fff0fff8ffffffffffffffffffffffffffff)
+[INFO ] [chunk] level_chunk x=109 z=-247 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 109,-247 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_109_-247.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=105 z=-243 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] parsed: subs=10 bpb=[0,0,0,0,0,0,0,0,0,0] tail=15B
+[INFO ] [chunk] -> Java map_chunk 105,-243 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_105_-243.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=109 z=-253 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] parsed: subs=8 bpb=[1,1,1,1,1,1,1,1] tail=17B
+[INFO ] [chunk] -> Java map_chunk 109,-253 body=65860B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_109_-253.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=108 z=-245 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 108,-245 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_108_-245.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=108 z=-255 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] parsed: subs=8 bpb=[0,0,0,0,0,0,0,0] tail=17B
+[INFO ] [chunk] -> Java map_chunk 108,-255 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_108_-255.bin (first bytes: 010e010e010e010e010e010e010e010effffffffffffffff)
+[INFO ] [chunk] level_chunk x=107 z=-244 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] parsed: subs=10 bpb=[0,0,0,0,0,0,0,0,0,0] tail=15B
+[INFO ] [chunk] -> Java map_chunk 107,-244 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_107_-244.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=107 z=-256 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] parsed: subs=8 bpb=[1,1,1,1,1,1,1,1] tail=17B
+[INFO ] [chunk] -> Java map_chunk 107,-256 body=65860B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_107_-256.bin (first bytes: 030000003000f0f0ffffffffffffffffffffffffffffffff)
+[INFO ] [chunk] level_chunk x=96 z=-255 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] parsed: subs=8 bpb=[0,0,0,0,0,0,0,0] tail=17B
+[INFO ] [chunk] -> Java map_chunk 96,-255 body=49451B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_96_-255.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=97 z=-256 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] parsed: subs=8 bpb=[0,0,0,0,0,0,0,0] tail=17B
+[INFO ] [chunk] -> Java map_chunk 97,-256 body=49451B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_97_-256.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=102 z=-258 subchunks=0 cache=false payloadBytes=9277
+[INFO ] [chunk] parsed: subs=9 bpb=[2,2,2,2,2,2,2,2,2] tail=16B
+[INFO ] [chunk] -> Java map_chunk 102,-258 body=67930B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_102_-258.bin (first bytes: 050000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=102 z=-242 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] parsed: subs=9 bpb=[1,1,1,1,1,1,1,1,1] tail=16B
+[INFO ] [chunk] -> Java map_chunk 102,-242 body=67912B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_102_-242.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=110 z=-250 subchunks=0 cache=false payloadBytes=5175
+[INFO ] [chunk] parsed: subs=10 bpb=[1,1,1,1,1,1,1,1,1,1] tail=15B
+[INFO ] [chunk] -> Java map_chunk 110,-250 body=69964B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_110_-250.bin (first bytes: 0310001c003f003f003f807fc07fc0ffffffffffffffffff)
+[INFO ] [chunk] level_chunk x=103 z=-242 subchunks=0 cache=false payloadBytes=5175
+[INFO ] [chunk] parsed: subs=10 bpb=[1,1,1,1,1,1,1,1,1,1] tail=15B
+[INFO ] [chunk] -> Java map_chunk 103,-242 body=69964B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_103_-242.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=103 z=-258 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] parsed: subs=9 bpb=[1,1,1,1,1,1,1,1,1] tail=16B
+[INFO ] [chunk] -> Java map_chunk 103,-258 body=67921B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_103_-258.bin (first bytes: 030000000000000000000007000000000000000010001000)
+[INFO ] [chunk] level_chunk x=106 z=-257 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] parsed: subs=8 bpb=[1,1,1,1,1,1,1,1] tail=17B
+[INFO ] [chunk] -> Java map_chunk 106,-257 body=65860B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_106_-257.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=101 z=-258 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] parsed: subs=9 bpb=[1,1,1,1,1,1,1,1,1] tail=16B
+[INFO ] [chunk] -> Java map_chunk 101,-258 body=67912B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_101_-258.bin (first bytes: 0300001e001f003f003f007fe07ff0fff3ffffffffffffff)
+[INFO ] [chunk] level_chunk x=95 z=-254 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] parsed: subs=8 bpb=[0,0,0,0,0,0,0,0] tail=17B
+[INFO ] [chunk] -> Java map_chunk 95,-254 body=49451B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_95_-254.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=109 z=-246 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 109,-246 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_109_-246.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=106 z=-243 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] parsed: subs=10 bpb=[0,0,0,0,0,0,0,0,0,0] tail=15B
+[INFO ] [chunk] -> Java map_chunk 106,-243 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_106_-243.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=98 z=-257 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] parsed: subs=8 bpb=[1,1,1,1,1,1,1,1] tail=17B
+[INFO ] [chunk] -> Java map_chunk 98,-257 body=65860B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_98_-257.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=110 z=-251 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] parsed: subs=10 bpb=[0,0,0,0,0,0,0,0,0,0] tail=15B
+[INFO ] [chunk] -> Java map_chunk 110,-251 body=49453B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_110_-251.bin (first bytes: 012a012a012a012a012a012a012a012a012a012affffffff)
+[INFO ] [chunk] level_chunk x=109 z=-254 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] parsed: subs=8 bpb=[1,1,1,1,1,1,1,1] tail=17B
+[INFO ] [chunk] -> Java map_chunk 109,-254 body=65860B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_109_-254.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=110 z=-249 subchunks=0 cache=false payloadBytes=5175
+[INFO ] [chunk] parsed: subs=10 bpb=[1,1,1,1,1,1,1,1,1,1] tail=15B
+[INFO ] [chunk] -> Java map_chunk 110,-249 body=69964B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_110_-249.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=101 z=-242 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] parsed: subs=10 bpb=[0,0,0,0,0,0,0,0,0,0] tail=15B
+[INFO ] [chunk] -> Java map_chunk 101,-242 body=49453B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_101_-242.bin (first bytes: 0146014601460146014601460146014601460146ffffffff)
+[INFO ] [chunk] level_chunk x=104 z=-258 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 104,-258 body=49452B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_104_-258.bin (first bytes: 012e012e012e012e012e012e012e012e012effffffffffff)
+[INFO ] [chunk] level_chunk x=100 z=-258 subchunks=0 cache=false payloadBytes=9277
+[INFO ] [chunk] parsed: subs=9 bpb=[2,2,2,2,2,2,2,2,2] tail=16B
+[INFO ] [chunk] -> Java map_chunk 100,-258 body=67930B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_100_-258.bin (first bytes: 050000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=110 z=-252 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 110,-252 body=49452B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_110_-252.bin (first bytes: 012a012a012a012a012a012a012a012a012affffffffffff)
+[INFO ] [chunk] level_chunk x=104 z=-242 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] parsed: subs=10 bpb=[0,0,0,0,0,0,0,0,0,0] tail=15B
+[INFO ] [chunk] -> Java map_chunk 104,-242 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_104_-242.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=110 z=-248 subchunks=0 cache=false payloadBytes=9277
+[INFO ] [chunk] parsed: subs=9 bpb=[2,2,2,2,2,2,2,2,2] tail=16B
+[INFO ] [chunk] -> Java map_chunk 110,-248 body=67921B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_110_-248.bin (first bytes: 050000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=108 z=-244 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] parsed: subs=10 bpb=[0,0,0,0,0,0,0,0,0,0] tail=15B
+[INFO ] [chunk] -> Java map_chunk 108,-244 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_108_-244.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=95 z=-247 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 95,-247 body=49452B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_95_-247.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=95 z=-246 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] parsed: subs=10 bpb=[0,0,0,0,0,0,0,0,0,0] tail=15B
+[INFO ] [chunk] -> Java map_chunk 95,-246 body=49453B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_95_-246.bin (first bytes: 0146014601460146014601460146014601460146ffffffff)
+[INFO ] [chunk] level_chunk x=100 z=-242 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 100,-242 body=49452B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_100_-242.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=94 z=-248 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 94,-248 body=49452B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_94_-248.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=108 z=-256 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] parsed: subs=8 bpb=[1,1,1,1,1,1,1,1] tail=17B
+[INFO ] [chunk] -> Java map_chunk 108,-256 body=65860B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_108_-256.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=96 z=-256 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] parsed: subs=8 bpb=[0,0,0,0,0,0,0,0] tail=17B
+[INFO ] [chunk] -> Java map_chunk 96,-256 body=49451B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_96_-256.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=99 z=-258 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] parsed: subs=8 bpb=[1,1,1,1,1,1,1,1] tail=17B
+[INFO ] [chunk] -> Java map_chunk 99,-258 body=65860B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_99_-258.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=110 z=-247 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] parsed: subs=9 bpb=[1,1,1,1,1,1,1,1,1] tail=16B
+[INFO ] [chunk] -> Java map_chunk 110,-247 body=67903B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_110_-247.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=105 z=-242 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] parsed: subs=10 bpb=[0,0,0,0,0,0,0,0,0,0] tail=15B
+[INFO ] [chunk] -> Java map_chunk 105,-242 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_105_-242.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=99 z=-242 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 99,-242 body=49452B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_99_-242.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=105 z=-258 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] parsed: subs=9 bpb=[1,1,1,1,1,1,1,1,1] tail=16B
+[INFO ] [chunk] -> Java map_chunk 105,-258 body=67912B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_105_-258.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=110 z=-253 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 110,-253 body=49452B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_110_-253.bin (first bytes: 012a012a012a012a012a012a012a012a012affffffffffff)
+[INFO ] [chunk] level_chunk x=97 z=-257 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] parsed: subs=8 bpb=[0,0,0,0,0,0,0,0] tail=17B
+[INFO ] [chunk] -> Java map_chunk 97,-257 body=49451B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_97_-257.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=109 z=-255 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] parsed: subs=8 bpb=[1,1,1,1,1,1,1,1] tail=17B
+[INFO ] [chunk] -> Java map_chunk 109,-255 body=65860B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_109_-255.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=95 z=-255 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] parsed: subs=8 bpb=[0,0,0,0,0,0,0,0] tail=17B
+[INFO ] [chunk] -> Java map_chunk 95,-255 body=49451B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_95_-255.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=107 z=-257 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] parsed: subs=8 bpb=[1,1,1,1,1,1,1,1] tail=17B
+[INFO ] [chunk] -> Java map_chunk 107,-257 body=65860B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_107_-257.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=109 z=-245 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 109,-245 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_109_-245.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=107 z=-243 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] parsed: subs=10 bpb=[0,0,0,0,0,0,0,0,0,0] tail=15B
+[INFO ] [chunk] -> Java map_chunk 107,-243 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_107_-243.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=110 z=-254 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] parsed: subs=8 bpb=[1,1,1,1,1,1,1,1] tail=17B
+[INFO ] [chunk] -> Java map_chunk 110,-254 body=65860B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_110_-254.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=110 z=-246 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] parsed: subs=9 bpb=[1,1,1,1,1,1,1,1,1] tail=16B
+[INFO ] [chunk] -> Java map_chunk 110,-246 body=67903B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_110_-246.bin (first bytes: 030000000010003000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=97 z=-244 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] parsed: subs=10 bpb=[0,0,0,0,0,0,0,0,0,0] tail=15B
+[INFO ] [chunk] -> Java map_chunk 97,-244 body=49453B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_97_-244.bin (first bytes: 0146014601460146014601460146014601460146ffffffff)
+[INFO ] [chunk] level_chunk x=96 z=-245 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] parsed: subs=10 bpb=[0,0,0,0,0,0,0,0,0,0] tail=15B
+[INFO ] [chunk] -> Java map_chunk 96,-245 body=49453B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_96_-245.bin (first bytes: 0146014601460146014601460146014601460146ffffffff)
+[INFO ] [chunk] level_chunk x=98 z=-243 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] parsed: subs=10 bpb=[0,0,0,0,0,0,0,0,0,0] tail=15B
+[INFO ] [chunk] -> Java map_chunk 98,-243 body=49453B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_98_-243.bin (first bytes: 0146014601460146014601460146014601460146ffffffff)
+[INFO ] [chunk] level_chunk x=96 z=-244 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 96,-244 body=49452B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_96_-244.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=94 z=-247 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 94,-247 body=49452B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_94_-247.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=95 z=-245 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] parsed: subs=10 bpb=[0,0,0,0,0,0,0,0,0,0] tail=15B
+[INFO ] [chunk] -> Java map_chunk 95,-245 body=49453B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_95_-245.bin (first bytes: 0146014601460146014601460146014601460146ffffffff)
+[INFO ] [chunk] level_chunk x=97 z=-243 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 97,-243 body=49452B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_97_-243.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=106 z=-242 subchunks=0 cache=false payloadBytes=36
+[INFO ] [chunk] parsed: subs=11 bpb=[0,0,0,0,0,0,0,0,0,0,0] tail=14B
+[INFO ] [chunk] -> Java map_chunk 106,-242 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_106_-242.bin (first bytes: 01020102010201020102010201020102010201020102ffff)
+[INFO ] [chunk] level_chunk x=98 z=-258 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] parsed: subs=8 bpb=[0,0,0,0,0,0,0,0] tail=17B
+[INFO ] [chunk] -> Java map_chunk 98,-258 body=49451B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_98_-258.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=98 z=-242 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] parsed: subs=10 bpb=[0,0,0,0,0,0,0,0,0,0] tail=15B
+[INFO ] [chunk] -> Java map_chunk 98,-242 body=49453B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_98_-242.bin (first bytes: 0146014601460146014601460146014601460146ffffffff)
+[INFO ] [chunk] level_chunk x=106 z=-258 subchunks=0 cache=false payloadBytes=8249
+[INFO ] [chunk] parsed: subs=8 bpb=[2,2,2,2,2,2,2,2] tail=17B
+[INFO ] [chunk] -> Java map_chunk 106,-258 body=65876B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_106_-258.bin (first bytes: 050000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=94 z=-246 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 94,-246 body=49452B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_94_-246.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=108 z=-257 subchunks=0 cache=false payloadBytes=5173
+[INFO ] [chunk] parsed: subs=8 bpb=[1,1,1,2,2,1,1,1] tail=17B
+[INFO ] [chunk] -> Java map_chunk 108,-257 body=65864B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_108_-257.bin (first bytes: 030000000000000000000000000000000000000000f01fff)
+[INFO ] [chunk] level_chunk x=108 z=-243 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 108,-243 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_108_-243.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=95 z=-256 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] parsed: subs=8 bpb=[0,0,0,0,0,0,0,0] tail=17B
+[INFO ] [chunk] -> Java map_chunk 95,-256 body=49451B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_95_-256.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=109 z=-244 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 109,-244 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_109_-244.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=95 z=-244 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 95,-244 body=49452B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_95_-244.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=109 z=-256 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] parsed: subs=8 bpb=[1,1,1,1,1,1,1,1] tail=17B
+[INFO ] [chunk] -> Java map_chunk 109,-256 body=65860B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_109_-256.bin (first bytes: 0300000000000000000000000000000000000010007c00ff)
+[INFO ] [chunk] level_chunk x=96 z=-257 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] parsed: subs=8 bpb=[0,0,0,0,0,0,0,0] tail=17B
+[INFO ] [chunk] -> Java map_chunk 96,-257 body=49451B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_96_-257.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=110 z=-255 subchunks=0 cache=false payloadBytes=4659
+[INFO ] [chunk] parsed: subs=8 bpb=[1,1,1,2,1,1,1,1] tail=17B
+[INFO ] [chunk] -> Java map_chunk 110,-255 body=65862B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_110_-255.bin (first bytes: 0300002000f000f003f00ff01ff81ffbffffffffffffffc7)
+[INFO ] [chunk] level_chunk x=94 z=-250 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] parsed: subs=9 bpb=[1,1,1,1,1,1,1,1,1] tail=16B
+[INFO ] [chunk] -> Java map_chunk 94,-250 body=67921B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_94_-250.bin (first bytes: 03003c007e00fe80ffe0ffe0ffe7ffffffffffffffffffff)
+[INFO ] [chunk] level_chunk x=94 z=-249 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 94,-249 body=49452B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_94_-249.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=94 z=-251 subchunks=0 cache=false payloadBytes=4145
+[INFO ] [chunk] parsed: subs=8 bpb=[1,1,1,1,1,1,1,1] tail=17B
+[INFO ] [chunk] -> Java map_chunk 94,-251 body=65868B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_94_-251.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=94 z=-252 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] parsed: subs=8 bpb=[0,0,0,0,0,0,0,0] tail=17B
+[INFO ] [chunk] -> Java map_chunk 94,-252 body=49451B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_94_-252.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=94 z=-253 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] parsed: subs=8 bpb=[0,0,0,0,0,0,0,0] tail=17B
+[INFO ] [chunk] -> Java map_chunk 94,-253 body=49451B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_94_-253.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=94 z=-254 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] parsed: subs=8 bpb=[0,0,0,0,0,0,0,0] tail=17B
+[INFO ] [chunk] -> Java map_chunk 94,-254 body=49451B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_94_-254.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=97 z=-242 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 97,-242 body=49452B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_97_-242.bin (first bytes: 014601460146014601460146014601460146ffffffffffff)
+[INFO ] [chunk] level_chunk x=107 z=-242 subchunks=0 cache=false payloadBytes=36
+[INFO ] [chunk] parsed: subs=11 bpb=[0,0,0,0,0,0,0,0,0,0,0] tail=14B
+[INFO ] [chunk] -> Java map_chunk 107,-242 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_107_-242.bin (first bytes: 01020102010201020102010201020102010201020102ffff)
+[INFO ] [chunk] level_chunk x=110 z=-245 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] parsed: subs=9 bpb=[1,1,1,1,1,1,1,1,1] tail=16B
+[INFO ] [chunk] -> Java map_chunk 110,-245 body=67903B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_110_-245.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=107 z=-258 subchunks=0 cache=false payloadBytes=5173
+[INFO ] [chunk] parsed: subs=8 bpb=[1,1,1,2,2,1,1,1] tail=17B
+[INFO ] [chunk] -> Java map_chunk 107,-258 body=65864B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_107_-258.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=97 z=-258 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] parsed: subs=8 bpb=[0,0,0,0,0,0,0,0] tail=17B
+[INFO ] [chunk] -> Java map_chunk 97,-258 body=49451B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_97_-258.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=109 z=-243 subchunks=0 cache=false payloadBytes=34
+[INFO ] [chunk] parsed: subs=9 bpb=[0,0,0,0,0,0,0,0,0] tail=16B
+[INFO ] [chunk] -> Java map_chunk 109,-243 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_109_-243.bin (first bytes: 010201020102010201020102010201020102ffffffffffff)
+[INFO ] [chunk] level_chunk x=109 z=-257 subchunks=0 cache=false payloadBytes=1063
+[INFO ] [chunk] parsed: subs=8 bpb=[0,0,0,1,1,0,0,0] tail=17B
+[INFO ] [chunk] -> Java map_chunk 109,-257 body=53554B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_109_-257.bin (first bytes: 012a012a012a0300c000e000e000fc00fe00fc00f800f800)
+[INFO ] [chunk] level_chunk x=95 z=-257 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] parsed: subs=8 bpb=[0,0,0,0,0,0,0,0] tail=17B
+[INFO ] [chunk] -> Java map_chunk 95,-257 body=49451B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_95_-257.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [chunk] level_chunk x=110 z=-244 subchunks=0 cache=false payloadBytes=4660
+[INFO ] [chunk] parsed: subs=9 bpb=[1,1,1,1,1,1,1,1,1] tail=16B
+[INFO ] [chunk] -> Java map_chunk 110,-244 body=67903B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_110_-244.bin (first bytes: 030000000000000000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=110 z=-256 subchunks=0 cache=false payloadBytes=548
+[INFO ] [chunk] parsed: subs=8 bpb=[0,0,0,1,0,0,0,0] tail=17B
+[INFO ] [chunk] -> Java map_chunk 110,-256 body=51503B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_110_-256.bin (first bytes: 012a012a012a030000000000000000000000000000000000)
+[INFO ] [chunk] level_chunk x=108 z=-258 subchunks=0 cache=false payloadBytes=1063
+[INFO ] [chunk] parsed: subs=8 bpb=[0,0,0,1,1,0,0,0] tail=17B
+[INFO ] [chunk] -> Java map_chunk 108,-258 body=53554B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_108_-258.bin (first bytes: 012a012a012a0300e000e000f000e000c000800080008000)
+[INFO ] [chunk] level_chunk x=108 z=-242 subchunks=0 cache=false payloadBytes=35
+[INFO ] [chunk] parsed: subs=10 bpb=[0,0,0,0,0,0,0,0,0,0] tail=15B
+[INFO ] [chunk] -> Java map_chunk 108,-242 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_108_-242.bin (first bytes: 0102010201020102010201020102010201020102ffffffff)
+[INFO ] [chunk] level_chunk x=96 z=-258 subchunks=0 cache=false payloadBytes=33
+[INFO ] [chunk] parsed: subs=8 bpb=[0,0,0,0,0,0,0,0] tail=17B
+[INFO ] [chunk] -> Java map_chunk 96,-258 body=49451B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_96_-258.bin (first bytes: 01540154015401540154015401540154ffffffffffffffff)
+[INFO ] [bedrock] spawned (player_spawn)
+[INFO ] [translate] Bedrock -> Java chat: death.attack.mob
+[INFO ] [translate] Bedrock -> Java chat: death.attack.lava
+[INFO ] closing Bedrock session for musaboffical
+[INFO ] [bedrock] session closed
+[INFO ] player configured, entering PLAY (user reached M2 milestone)
+[INFO ] opening Bedrock session for musaboffical -> saltanatsfsg.aternos.me:40156
+Connecting to saltanatsfsg.aternos.me:19136 Offline (Aternos), version 26.40  (as 1.26.40)
+[INFO ] [translate] Java -> Bedrock chat: hd
+[INFO ] [bedrock] authenticated as 'TrickedPepper29' (Xbox device login)
+[INFO ] [bedrock] joined (play_status login_success)
+[INFO ] [bedrock] start_game received (entity 3, block palette: 7)
+[INFO ] [blocks] palette mapped: 7 states, 7 unmapped
+[INFO ] [blocks] first unmapped runtime ids: 0:geyser_custom:obsidian, 1:geyser_custom:red_mushroom_block, 2:geyser_custom:mushroom_stem, 3:geyser_custom:crying_obsidian, 4:geyser_custom:test_block, 5:geyser_custom:test_instance_block, 6:geyser_custom:brown_mushroom_block
+[INFO ] [blocks] palette mapped: 7 states, 7 unmapped
+[INFO ] [blocks] first unmapped runtime ids: 0:geyser_custom:obsidian, 1:geyser_custom:red_mushroom_block, 2:geyser_custom:mushroom_stem, 3:geyser_custom:crying_obsidian, 4:geyser_custom:test_block, 5:geyser_custom:test_instance_block, 6:geyser_custom:brown_mushroom_block
+[INFO ] [chunk] level_chunk x=0 z=0 subchunks=0 cache=false payloadBytes=26
+[INFO ] [chunk] parsed: subs=1 bpb=[0] tail=24B
+[INFO ] [chunk] -> Java map_chunk 0,0 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_0_0.bin (first bytes: 0100ffffffffffffffffffffffffffffffffffffffffffff)
+[INFO ] [bedrock] spawned (player_spawn)
+[INFO ] [chunk] level_chunk x=0 z=0 subchunks=8 cache=false payloadBytes=2866
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_0_0.bin (first bytes: 0900fc0900fd0900fe0900ff090000090001090002090103)
+[INFO ] [chunk] level_chunk x=0 z=1 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk 0,1 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_0_1.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=0 z=-1 subchunks=8 cache=false payloadBytes=2849
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_0_-1.bin (first bytes: 0900fc0900fd0900fe0900ff090000090001090002090103)
+[INFO ] [chunk] level_chunk x=-1 z=0 subchunks=8 cache=false payloadBytes=2850
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_-1_0.bin (first bytes: 0900fc0900fd0900fe0900ff090000090001090002090103)
+[INFO ] [chunk] level_chunk x=1 z=0 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk 1,0 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_1_0.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=1 z=1 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk 1,1 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_1_1.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=-1 z=-1 subchunks=8 cache=false payloadBytes=2152
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_-1_-1.bin (first bytes: 0900fc0900fd0900fe0900ff090000090001090002090103)
+[INFO ] [chunk] level_chunk x=0 z=2 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk 0,2 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_0_2.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=-1 z=1 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk -1,1 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_-1_1.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=-2 z=0 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk -2,0 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_-2_0.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=1 z=-1 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk 1,-1 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_1_-1.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=0 z=-2 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk 0,-2 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_0_-2.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=2 z=0 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk 2,0 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_2_0.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=0 z=3 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk 0,3 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_0_3.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=-2 z=1 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk -2,1 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_-2_1.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=3 z=0 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk 3,0 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_3_0.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=-2 z=-1 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk -2,-1 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_-2_-1.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=-1 z=2 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk -1,2 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_-1_2.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=1 z=2 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk 1,2 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_1_2.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=2 z=-1 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk 2,-1 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_2_-1.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=-1 z=-2 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk -1,-2 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_-1_-2.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=1 z=-2 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk 1,-2 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_1_-2.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=0 z=-3 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk 0,-3 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_0_-3.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=2 z=1 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk 2,1 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_2_1.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=-3 z=0 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk -3,0 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_-3_0.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=-2 z=2 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk -2,2 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_-2_2.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=1 z=-3 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk 1,-3 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_1_-3.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=-2 z=-2 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk -2,-2 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_-2_-2.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=2 z=2 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk 2,2 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_2_2.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=-4 z=0 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk -4,0 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_-4_0.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=3 z=1 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk 3,1 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_3_1.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=2 z=-2 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk 2,-2 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_2_-2.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=1 z=3 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk 1,3 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_1_3.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=3 z=-1 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk 3,-1 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_3_-1.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=-3 z=-1 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk -3,-1 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_-3_-1.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=-3 z=1 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk -3,1 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_-3_1.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=4 z=0 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk 4,0 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_4_0.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=-1 z=3 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk -1,3 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_-1_3.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=0 z=-4 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk 0,-4 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_0_-4.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=-1 z=-3 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk -1,-3 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_-1_-3.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=0 z=4 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk 0,4 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_0_4.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=-1 z=-4 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk -1,-4 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_-1_-4.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=4 z=-1 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk 4,-1 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_4_-1.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=-4 z=1 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk -4,1 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_-4_1.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=4 z=1 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk 4,1 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_4_1.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=-2 z=-3 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk -2,-3 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_-2_-3.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=-2 z=3 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk -2,3 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_-2_3.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=2 z=3 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk 2,3 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_2_3.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=-1 z=4 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk -1,4 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_-1_4.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=2 z=-3 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk 2,-3 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_2_-3.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=1 z=-4 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk 1,-4 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_1_-4.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=1 z=4 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk 1,4 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_1_4.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=-3 z=2 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk -3,2 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_-3_2.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=3 z=-2 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk 3,-2 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_3_-2.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=3 z=2 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk 3,2 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_3_2.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=-4 z=-1 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk -4,-1 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_-4_-1.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=-3 z=-2 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk -3,-2 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_-3_-2.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=4 z=2 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk 4,2 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_4_2.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=-4 z=-2 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk -4,-2 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_-4_-2.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=-4 z=2 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk -4,2 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_-4_2.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=-3 z=3 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk -3,3 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_-3_3.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=3 z=-3 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk 3,-3 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_3_-3.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=-3 z=-3 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk -3,-3 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_-3_-3.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=3 z=3 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk 3,3 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_3_3.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=-2 z=-4 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk -2,-4 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_-2_-4.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=4 z=-2 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk 4,-2 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_4_-2.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=2 z=4 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk 2,4 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_2_4.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=-2 z=4 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk -2,4 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_-2_4.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=2 z=-4 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk 2,-4 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_2_-4.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=3 z=-4 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk 3,-4 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_3_-4.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=-3 z=-4 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk -3,-4 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_-3_-4.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=4 z=-3 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk 4,-3 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_4_-3.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=4 z=3 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk 4,3 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_4_3.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=-3 z=4 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk -3,4 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_-3_4.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=-4 z=-3 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk -4,-3 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_-4_-3.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=-4 z=3 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk -4,3 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_-4_3.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=3 z=4 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk 3,4 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_3_4.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=4 z=-4 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk 4,-4 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_4_-4.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=-4 z=4 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk -4,4 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_-4_4.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=-4 z=-4 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk -4,-4 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_-4_-4.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [chunk] level_chunk x=4 z=4 subchunks=0 cache=false payloadBytes=49
+[INFO ] [chunk] parsed: subs=24 bpb=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] tail=1B
+[INFO ] [chunk] -> Java map_chunk 4,4 body=49443B
+[INFO ] [chunk] payload saved to D:\tranlsater\chunk_capture\chunk_4_4.bin (first bytes: 010e010e010e010e010e010e010e010e010e010e010e010e)
+[INFO ] [translate] Java -> Bedrock chat: d
+[INFO ] [translate] Bedrock -> Java chat: Bedrock players are likely unable to chat, as the server has
+[INFO ] [translate] Bedrock -> Java chat: See https://geysermc.link/secure-chat for more information a
+[INFO ] [translate] Bedrock -> Java chat: §r§cChat disabled due to missing profile public key. Please 
+[INFO ] closing Bedrock session for musaboffical
+[INFO ] [bedrock] session closed

@@ -1,0 +1,6 @@
+(node:6980) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+[WARN ] [chunk] parse failed: unexpected palette count byte 0x0 at 0
+[WARN ] [chunk] parse failed: unexpected palette count byte 0x0 at 0
+[WARN ] [chunk] parse failed: unexpected palette count byte 0x0 at 0
+[WARN ] [chunk] parse failed: unexpected palette count byte 0x0 at 0
